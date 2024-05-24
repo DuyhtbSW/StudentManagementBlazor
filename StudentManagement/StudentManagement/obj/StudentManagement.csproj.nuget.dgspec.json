@@ -99,7 +99,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement.Shared\\StudentManagement.Shared.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement.Shared\\StudentManagement.Shared.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

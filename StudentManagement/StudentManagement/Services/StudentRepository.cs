@@ -2,49 +2,64 @@
 using StudentManagement.Data;
 using StudentManagement.Services;
 using StudentManagement.Shared.Models;
-using StudentManagement.Shared.StudentRepository;
+using StudentManagement.Client.Repository;
 
 namespace StudentManagement.Services
 {
     public class StudentRepository : IStudentRepository
     {
-        private readonly ApplicationDbContext db;
+        private readonly ApplicationDbContext _context;
 
-        public StudentRepository(ApplicationDbContext context) { 
-        db = context;
+        public StudentRepository(ApplicationDbContext context)
+        {
+            this._context = context;
         }
         public async Task<Student> AddStudentAsync(Student student)
         {
-            if (student == null) throw new ArgumentNullException();
-            var newstudent = db.Add(student).Entity;
-            await db.SaveChangesAsync();
+            if (student == null) return null;
+
+            var newstudent = _context.Students.Add(student).Entity;
+            await _context.SaveChangesAsync();
+
             return newstudent;
         }
 
-        public async Task<Student?> DeleteStudentAsync(int studentId)
+        public async Task<Student> DeleteStudentAsync(int studentId)
         {
-           var student = await db.Students.Where(s => s.Id == studentId).FirstOrDefaultAsync();
-            if (student == null)
-                return null;
-            db.Students.Remove(student);
-            await db.SaveChangesAsync();
+            var student = await _context.Students.Where(x => x.Id == studentId).FirstOrDefaultAsync();
+            if (student == null) return null;
+
+            _context.Students.Remove(student);
+            await _context.SaveChangesAsync();
+
             return student;
         }
 
+
         public async Task<List<Student>> GetAllStudentsAsync()
         {
-            var students = await db.Students.ToListAsync();
+            var students = await _context.Students.ToListAsync();
+
             return students;
         }
 
-        public Task<Student> GetStudentByIdAsync(int studentId)
+        public async Task<Student> GetStudentByIdAsync(int studentId)
         {
-            throw new NotImplementedException();
+            var singlestudent = await _context.Students.Where(x => x.Id == studentId).FirstOrDefaultAsync();
+            if (singlestudent == null) return null;
+
+            return singlestudent;
         }
 
-        public Task<Student> UpdateStudentAsync(Student student)
+        public async Task<Student> UpdateStudentAsync(Student student)
         {
-            throw new NotImplementedException();
+            if (student == null) return null;
+
+
+            var newstudent = _context.Students.Update(student).Entity;
+            await _context.SaveChangesAsync();
+
+            return newstudent;
         }
     }
 }

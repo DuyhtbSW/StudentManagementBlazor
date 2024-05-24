@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentManagement", "Studen
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentManagement.Client", "StudentManagement\StudentManagement.Client\StudentManagement.Client.csproj", "{D2AC4341-2DB7-498C-BE52-86F05746B42C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagement.Shared", "StudentManagement.Shared\StudentManagement.Shared.csproj", "{87A5EF87-708D-494E-BD71-D4C6B686D4C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentManagement.Shared", "StudentManagement.Shared\StudentManagement.Shared.csproj", "{87A5EF87-708D-494E-BD71-D4C6B686D4C6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

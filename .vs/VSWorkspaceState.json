@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\StudentManagement"
+    "\\StudentManagement",
+    "\\StudentManagement\\StudentManagement.Client",
+    "\\StudentManagement\\StudentManagement.Client\\Pages",
+    "\\StudentManagement\\StudentManagement.Client\\Pages\\Students"
   ],
-  "SelectedNode": "\\StudentManagement.sln",
+  "SelectedNode": "\\StudentManagement\\StudentManagement.Client\\Pages\\Students\\AddNewStudent.razor",
   "PreviewInSolutionExplorer": false
 }

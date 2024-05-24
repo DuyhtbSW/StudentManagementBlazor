@@ -1036,6 +1036,14 @@ C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagement\StudentManagemen
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagement\StudentManagement.Client\obj\Debug\net8.0\refint\StudentManagement.Client.dll
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagement\StudentManagement.Client\obj\Debug\net8.0\StudentManagement.Client.pdb
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagement\StudentManagement.Client\obj\Debug\net8.0\ref\StudentManagement.Client.dll
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\obj\Debug\net8.0\StudentManagement.Client.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\obj\Debug\net8.0\StudentManagement.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\obj\Debug\net8.0\StudentManagement.Client.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\obj\Debug\net8.0\StudentManagement.Client.AssemblyInfo.cs
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\obj\Debug\net8.0\StudentManagement.Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\obj\Debug\net8.0\StudentManagement.Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\obj\Debug\net8.0\StudentManagement.Client.sourcelink.json
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\blazor.boot.json
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\blazor.webassembly.js
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\dotnet.js
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\dotnet.js.map
@@ -1077,6 +1085,10 @@ C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentMan
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Win32.Registry.wasm
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\mscorlib.wasm
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\netstandard.wasm
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\StudentManagement.Client.pdb
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\StudentManagement.Client.wasm
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\StudentManagement.Shared.pdb
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\StudentManagement.Shared.wasm
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.AppContext.wasm
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Buffers.wasm
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Collections.Concurrent.wasm
@@ -1239,19 +1251,6 @@ C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentMan
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XPath.wasm
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XPath.XDocument.wasm
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\WindowsBase.wasm
-C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\dotnet.native.8.0.4.1oa6t0c2on.js.gz
-C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\icudt_no_CJK.dat.gz
-C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\dotnet.native.wasm.gz
-C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\icudt_CJK.dat.gz
-C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\dotnet.runtime.8.0.4.f30bfbz1kh.js.gz
-C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\dotnet.js.map.gz
-C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\icudt_EFIGS.dat.gz
-C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\blazor.webassembly.js.gz
-C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\dotnet.js.gz
-C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\dotnet.runtime.js.map.gz
-C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\blazor.boot.json
-C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\StudentManagement.Client.pdb
-C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\StudentManagement.Client.wasm
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Collections.Concurrent.wasm.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.IO.Compression.ZipFile.wasm.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.wasm.gz
@@ -1262,6 +1261,7 @@ C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentMan
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.IO.Compression.FileSystem.wasm.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.wasm.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Xml.Serialization.wasm.gz
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\dotnet.native.8.0.4.1oa6t0c2on.js.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Handles.wasm.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Windows.wasm.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.wasm.gz
@@ -1276,6 +1276,7 @@ C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentMan
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.wasm.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.wasm.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Threading.wasm.gz
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\icudt_no_CJK.dat.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\StudentManagement.Client.wasm.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Globalization.Extensions.wasm.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.IO.Pipes.wasm.gz
@@ -1298,9 +1299,11 @@ C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentMan
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.wasm.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XDocument.wasm.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Drawing.wasm.gz
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\dotnet.native.wasm.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.InteropServices.wasm.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Memory.wasm.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.ValueTuple.wasm.gz
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\icudt_CJK.dat.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Threading.Tasks.Extensions.wasm.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Data.wasm.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Net.ServicePoint.wasm.gz
@@ -1328,6 +1331,7 @@ C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentMan
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Numerics.wasm.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Xml.XmlSerializer.wasm.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.InteropServices.JavaScript.wasm.gz
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\dotnet.runtime.8.0.4.f30bfbz1kh.js.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.wasm.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Transactions.wasm.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.wasm.gz
@@ -1340,6 +1344,8 @@ C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentMan
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.wasm.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.wasm.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.ObjectModel.wasm.gz
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\dotnet.js.map.gz
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\StudentManagement.Shared.wasm.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\netstandard.wasm.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.wasm.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Authorization.wasm.gz
@@ -1349,6 +1355,7 @@ C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentMan
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Private.DataContractSerialization.wasm.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Core.wasm.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.wasm.gz
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\icudt_EFIGS.dat.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\Microsoft.CSharp.wasm.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Configuration.wasm.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Console.wasm.gz
@@ -1379,6 +1386,7 @@ C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentMan
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Linq.Queryable.wasm.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.wasm.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Net.Ping.wasm.gz
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\blazor.webassembly.js.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.wasm.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.wasm.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Intrinsics.wasm.gz
@@ -1387,6 +1395,7 @@ C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentMan
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.Cng.wasm.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Xml.Linq.wasm.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.wasm.gz
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\dotnet.js.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Security.SecureString.wasm.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Reflection.Primitives.wasm.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Net.Mail.wasm.gz
@@ -1407,6 +1416,8 @@ C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentMan
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Net.Sockets.wasm.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Net.WebProxy.wasm.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Runtime.Extensions.wasm.gz
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\dotnet.runtime.js.map.gz
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\StudentManagement.Shared.pdb.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.ComponentModel.Primitives.wasm.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.wasm.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.wasm.gz
@@ -1653,13 +1664,8 @@ C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentMan
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\icudt_CJK.dat
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\icudt_EFIGS.dat
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\icudt_no_CJK.dat
-C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\obj\Debug\net8.0\StudentManagement.Client.csproj.AssemblyReference.cache
-C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\obj\Debug\net8.0\StudentManagement.Client.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\obj\Debug\net8.0\StudentManagement.Client.AssemblyInfoInputs.cache
-C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\obj\Debug\net8.0\StudentManagement.Client.AssemblyInfo.cs
-C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\obj\Debug\net8.0\StudentManagement.Client.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\obj\Debug\net8.0\StudentManagement.Client.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\obj\Debug\net8.0\StudentManagement.Client.sourcelink.json
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\StudentManagement.Shared.dll
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\StudentManagement.Shared.pdb
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Authorization.wasm
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.wasm
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\obj\Debug\net8.0\webcil\Microsoft.AspNetCore.Components.Authorization.wasm
@@ -1853,6 +1859,7 @@ C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentMan
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\obj\Debug\net8.0\webcil\mscorlib.wasm
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\obj\Debug\net8.0\webcil\netstandard.wasm
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\obj\Debug\net8.0\webcil\System.Private.CoreLib.wasm
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\obj\Debug\net8.0\webcil\StudentManagement.Shared.wasm
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\obj\Debug\net8.0\webcil\StudentManagement.Client.wasm
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\obj\Debug\net8.0\blazor.build.boot-extension.json
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\obj\Debug\net8.0\blazor.boot.json
@@ -2067,6 +2074,8 @@ C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentMan
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\obj\Debug\net8.0\compressed\9uflnaa2sf.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\obj\Debug\net8.0\compressed\j4fzc91stk.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\obj\Debug\net8.0\compressed\47uxxgowhq.gz
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\obj\Debug\net8.0\compressed\i2w6r8jzrq.gz
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\obj\Debug\net8.0\compressed\txpincqpp7.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\obj\Debug\net8.0\compressed\4an60jbg8n.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\obj\Debug\net8.0\compressed\mcoyud1wzl.gz
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\obj\Debug\net8.0\compressed\fveyapdap7.gz

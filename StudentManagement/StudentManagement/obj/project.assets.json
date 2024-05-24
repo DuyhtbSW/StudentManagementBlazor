@@ -1952,7 +1952,8 @@
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "Microsoft.AspNetCore.Components.WebAssembly": "8.0.5",
-          "Microsoft.AspNetCore.Components.WebAssembly.Authentication": "8.0.5"
+          "Microsoft.AspNetCore.Components.WebAssembly.Authentication": "8.0.5",
+          "StudentManagement.Shared": "1.0.0"
         },
         "compile": {
           "bin/placeholder/StudentManagement.Client.dll": {}

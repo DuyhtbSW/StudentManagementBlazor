@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "StudentManagement.Client",
   "resources": {
-    "hash": "sha256-YV48ty7EWtA/DXlUUc3JqJZTN6Z4bcfb1AP85yFLbrA=",
+    "hash": "sha256-96mrsG8YqNkLMmgof4M//gzMHJTWLai+WG+4jFXOWPg=",
     "jsModuleNative": {
       "dotnet.native.8.0.4.1oa6t0c2on.js": "sha256-ju0+XWE0ihz554eKEj0HQ8Opa61xpbUIaX5/MNo8we4="
     },
@@ -21,7 +21,7 @@
       "Microsoft.AspNetCore.Components.Authorization.wasm": "sha256-wG3IRigYyEheLcn4g6pkheCp20tpz6X9QQ2eoFVaLKQ=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-yN7t2KE+4q/oJMzUgiPddbllFygTDq5BAkXytPFsGJY=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-+xGnWtHJMX9pzO1q7jai9Lyl+9Fg19pQ+bEvYeMmTSw=",
-      "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-/sibek0BzE+iwz5utDa1/fy+m2IENWz+fBUMQWnFMLQ=",
+      "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-Ep6gZsDwgwkqFt+R+OIDq6IiIOZO+BjshJWTnz1z7ak=",
       "Microsoft.AspNetCore.Metadata.wasm": "sha256-JveihFRzBrQVnhcSY3U+NaesyvuYOw2JSl1OTDWjP5Y=",
       "Microsoft.Extensions.Configuration.Abstractions.wasm": "sha256-87sn2TYqgdZ95sXmavjKEzoEfMgHnYQ9LOvnMX+aZcI=",
       "Microsoft.Extensions.Configuration.Json.wasm": "sha256-Sxmy2ZS134URxbHEvdbS6NcQ3zXS7UWx/5ZPpwiW7FA=",
@@ -34,20 +34,26 @@
       "Microsoft.Extensions.Primitives.wasm": "sha256-opoh5mb9g1OUt3obpwrrOvmcQ+5UbUJPcBRMoP63AhU=",
       "Microsoft.JSInterop.wasm": "sha256-YrrPPJg6rA/Bmx1sladSdAwoqL78YSP+3xcjhBg0bnc=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-ZyIqQss3I64BQC2gc7JEDrkYq14vXKEXuw5vBJ5oFYM=",
-      "StudentManagement.Client.wasm": "sha256-Z859jSjWs9Pca4jCUwoH/AyblLdqGYjmz3DNaQ1+V/E=",
+      "StudentManagement.Client.wasm": "sha256-zM2mt0eCW7WApLrjSbuXD7UsvQrl8o0FnKm0lkoIRfw=",
+      "StudentManagement.Shared.wasm": "sha256-EoArIk+LZRqwtkbwptZNSBvW3VrjNT/j/5b8hDmT38Q=",
       "System.Collections.Concurrent.wasm": "sha256-k7on0sE4G2EIY8yi6XS/+wuMjRCChNDwl+O8Uq+uyy4=",
-      "System.Collections.wasm": "sha256-PuwGKdCHjUFJMkH+F45aEELuElrb5VYT6yFmQ+dpDPk=",
+      "System.Collections.wasm": "sha256-5T7oEEKMyyhMDKfGseOGqQ8cZp911tDFHFTypKBb+Cs=",
+      "System.ComponentModel.Annotations.wasm": "sha256-qObNX3g4BbjB9CD5r+ljQw9K+wHmvYgxL+/gTTx/gF8=",
       "System.ComponentModel.wasm": "sha256-3drUNG+pOzAK56sVBBB8sQXp80RmGsNYQXUk2WSIAD8=",
       "System.Console.wasm": "sha256-UkB3g1YaqG58Z2YT19eTX35nrLi1ZhQXg8F6L88jd5o=",
+      "System.Diagnostics.DiagnosticSource.wasm": "sha256-tG9y51L3LuVU+h2jxUgD45Gbab8XeNkaJM37UsFKsCU=",
       "System.Linq.wasm": "sha256-AyQj4afL0Gq1nUJR9welvRDuZzA59LXDJ0YNkxQmu+w=",
       "System.Memory.wasm": "sha256-fVZAssLgL7tevXU7Wy0Oz/VwdRzqqyl3xk/1+6lMv84=",
-      "System.Private.CoreLib.wasm": "sha256-Sm1yjOTy7gPk9EC158QGNyI8Rbt6vTRmoqv+VBDaYmo=",
-      "System.Private.Uri.wasm": "sha256-3CcHxgIMUPUfXi+VysvnDBaVtxMVH21pTOvZpu7REZQ=",
-      "System.Runtime.InteropServices.JavaScript.wasm": "sha256-QK2uGp76fQnJOkX7c+FaQmA2Vih1Rqf53n/Q3kp8m3g=",
-      "System.Runtime.wasm": "sha256-6/1X9qUdCgDxUjHMccDO21TLwtL12laG63vl0NIEMSo=",
+      "System.Net.Http.Json.wasm": "sha256-Bkb0CrD364e3pzEGmcoQ+/uyTmEETfiLJSUG0BJqRnc=",
+      "System.Net.Http.wasm": "sha256-i8kSC8UnIYuT9WbAmsTY6cOuMyBFJ0mBiKVkpf4q148=",
+      "System.Net.Primitives.wasm": "sha256-1eFE+qs2Ap6yTGNdu+B9W2n+SQSmTUD2aIyvxtxjz/E=",
+      "System.Private.CoreLib.wasm": "sha256-abOa2i5Qwf7zNQp5lGWZVREsCg3+6C+Ra2TbgvICNtw=",
+      "System.Private.Uri.wasm": "sha256-m9GL4h4jyGX3chrx4duk9PCLyLou41IqnamnsREsIJw=",
+      "System.Runtime.InteropServices.JavaScript.wasm": "sha256-ick0L8BMlN/DNWw0EnAnSMeYbiczX3ggoXkf5DDrCwc=",
+      "System.Runtime.wasm": "sha256-xPk4l+Tfyx6vo8iP6Rvlx6DDgGontECc0yeEpcUU7bY=",
       "System.Security.Claims.wasm": "sha256-tm5twPK7cxDHgROp0DdbrRwkuFVhWGmwVdgizX/qrVQ=",
       "System.Text.Encodings.Web.wasm": "sha256-Bi7mjUAkZVHmzZZdfC7FmlVYoZQ8wKydcWn3pziYU8g=",
-      "System.Text.Json.wasm": "sha256-FN9e+3DfB3P7eqZXvrRaQ2VnbriPMRG1LnBXRlejBeA="
+      "System.Text.Json.wasm": "sha256-VjyCrxAyxkSK/puemKrOPe8gsjiIDE238dyAo6icMRs="
     }
   },
   "cacheBootResources": true,

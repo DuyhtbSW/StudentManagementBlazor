@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement.client\\pages\\students\\deletestudent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\pages\\students\\deletestudent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement.client\\pages\\students\\studentslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\pages\\students\\studentslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement.client\\pages\\students\\editstudent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\pages\\students\\editstudent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement.client\\pages\\students\\addnewstudent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\pages\\students\\addnewstudent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,6 +51,58 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeleteStudent.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Students\\DeleteStudent.razor",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\Students\\DeleteStudent.razor",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Students\\DeleteStudent.razor",
+              "RelativeToolTip": "StudentManagement\\StudentManagement.Client\\Pages\\Students\\DeleteStudent.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T16:22:23.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditStudent.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Students\\EditStudent.razor",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\Students\\EditStudent.razor",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Students\\EditStudent.razor",
+              "RelativeToolTip": "StudentManagement\\StudentManagement.Client\\Pages\\Students\\EditStudent.razor",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T16:13:39.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Studentslist.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Students\\Studentslist.razor",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\Students\\Studentslist.razor",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Students\\Studentslist.razor",
+              "RelativeToolTip": "StudentManagement\\StudentManagement.Client\\Pages\\Students\\Studentslist.razor",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAE0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T16:15:01.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddNewStudent.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Students\\AddNewStudent.razor",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\Students\\AddNewStudent.razor",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Students\\AddNewStudent.razor",
+              "RelativeToolTip": "StudentManagement\\StudentManagement.Client\\Pages\\Students\\AddNewStudent.razor",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T16:14:12.516Z",
+              "EditorCaption": ""
             }
           ]
         },

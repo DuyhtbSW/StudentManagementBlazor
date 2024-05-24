@@ -9,3 +9,15 @@ C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagement.Shared\obj\Relea
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagement.Shared\obj\Release\net8.0\refint\StudentManagement.Shared.dll
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagement.Shared\obj\Release\net8.0\StudentManagement.Shared.pdb
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagement.Shared\obj\Release\net8.0\ref\StudentManagement.Shared.dll
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement.Shared\bin\Release\net8.0\StudentManagement.Shared.deps.json
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement.Shared\bin\Release\net8.0\StudentManagement.Shared.dll
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement.Shared\bin\Release\net8.0\StudentManagement.Shared.pdb
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement.Shared\obj\Release\net8.0\StudentManagement.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement.Shared\obj\Release\net8.0\StudentManagement.Shared.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement.Shared\obj\Release\net8.0\StudentManagement.Shared.AssemblyInfo.cs
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement.Shared\obj\Release\net8.0\StudentManagement.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement.Shared\obj\Release\net8.0\StudentManagement.Shared.sourcelink.json
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement.Shared\obj\Release\net8.0\StudentManagement.Shared.dll
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement.Shared\obj\Release\net8.0\refint\StudentManagement.Shared.dll
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement.Shared\obj\Release\net8.0\StudentManagement.Shared.pdb
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement.Shared\obj\Release\net8.0\ref\StudentManagement.Shared.dll

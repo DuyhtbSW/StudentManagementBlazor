@@ -1,0 +1,95 @@
+﻿@page "/add-student"
+@using StudentManagement.Shared.Models
+@rendermode InteractiveAuto
+@inject NavigationManager navigation;
+
+
+@inject IJSRuntime JsRuntime
+<h3>AddNewStudent</h3>
+<hr />
+<div class="row">
+    <div class="col-md-12">
+        <EditForm      Model="studobj"  OnValidSubmit="CreateStudent" FormName="addstudent" > 
+
+            <DataAnnotationsValidator></DataAnnotationsValidator>
+            <ValidationSummary></ValidationSummary>
+            <div class="col-md-12">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label class="control-label"> First Name </label>
+                            <InputText for="FirstName" class="form-control" @bind-Value="@studobj.FirstName"></InputText>
+                            <ValidationMessage For="() => studobj.FirstName"/>
+
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label class="control-label"> Last Name </label>
+                            <InputText for="FirstName" class="form-control" @bind-Value="@studobj.LastName"></InputText>
+                            <ValidationMessage For="() => studobj.LastName" />
+
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label class="control-label"> Email </label>
+                            <InputText for="FirstName" class="form-control" @bind-Value="@studobj.Email"></InputText>
+                            <ValidationMessage For="() => studobj.Email" />
+
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label class="control-label"> Phone</label>
+                            <InputText for="FirstName" class="form-control" @bind-Value="@studobj.Phone"></InputText>
+                            <ValidationMessage For="() => studobj.Phone" />
+
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label class="control-label"> Address</label>
+                            <InputText for="FirstName" class="form-control" @bind-Value="@studobj.Address"></InputText>
+                            <ValidationMessage For="() => studobj.Address" />
+
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label class="control-label"> City</label>
+                            <InputText for="FirstName" class="form-control" @bind-Value="@studobj.City"></InputText>
+                            <ValidationMessage For="() => studobj.City" />
+
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label class="control-label"> Region</label>
+                            <InputText for="FirstName" class="form-control" @bind-Value="@studobj.Region"></InputText>
+                            <ValidationMessage For="() => studobj.Region" />
+
+                        </div>
+                    </div>
+                </div>
+                <div class="form-group mt-4">
+                    <button type="submit" class="btn btn-primary"> Save Student</button>
+                    <button type="submit" @onclick="()=>Cancel()" class="btn btn-danger"> Cancel</button>
+                </div>
+            </div>
+        </EditForm>
+    </div>
+</div>
+@code {
+    [SupplyParameterFromForm]
+    public Student studobj { get; set; } = new();
+    protected async Task CreateStudent()
+    {
+        var result = await StudentService.AddStudentAsync(studobj);
+        navigation.NavigateTo("/students-list");
+    }
+    public void Cancel()
+    {
+        navigation.NavigateTo("/students-list");
+    }
+}
