@@ -26,7 +26,7 @@
                     <div class="col-md-6">
                         <div class="form-group">
                             <label class="control-label"> Last Name </label>
-                            <InputText for="FirstName" class="form-control" @bind-Value="@studobj.LastName"></InputText>
+                            <InputText for="LastName" class="form-control" @bind-Value="@studobj.LastName"></InputText>
                             <ValidationMessage For="() => studobj.LastName" />
 
                         </div>
@@ -34,7 +34,7 @@
                     <div class="col-md-6">
                         <div class="form-group">
                             <label class="control-label"> Email </label>
-                            <InputText for="FirstName" class="form-control" @bind-Value="@studobj.Email"></InputText>
+                            <InputText for="Email" class="form-control" @bind-Value="@studobj.Email"></InputText>
                             <ValidationMessage For="() => studobj.Email" />
 
                         </div>
@@ -42,7 +42,7 @@
                     <div class="col-md-6">
                         <div class="form-group">
                             <label class="control-label"> Phone</label>
-                            <InputText for="FirstName" class="form-control" @bind-Value="@studobj.Phone"></InputText>
+                            <InputText for="Phone" class="form-control" @bind-Value="@studobj.Phone"></InputText>
                             <ValidationMessage For="() => studobj.Phone" />
 
                         </div>
@@ -50,7 +50,7 @@
                     <div class="col-md-6">
                         <div class="form-group">
                             <label class="control-label"> Address</label>
-                            <InputText for="FirstName" class="form-control" @bind-Value="@studobj.Address"></InputText>
+                            <InputText for="Address" class="form-control" @bind-Value="@studobj.Address"></InputText>
                             <ValidationMessage For="() => studobj.Address" />
 
                         </div>
@@ -58,16 +58,23 @@
                     <div class="col-md-6">
                         <div class="form-group">
                             <label class="control-label"> City</label>
-                            <InputText for="FirstName" class="form-control" @bind-Value="@studobj.City"></InputText>
+                            <InputText for="City" class="form-control" @bind-Value="@studobj.City"></InputText>
                             <ValidationMessage For="() => studobj.City" />
 
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="form-group">
-                            <label class="control-label"> Region</label>
-                            <InputText for="FirstName" class="form-control" @bind-Value="@studobj.Region"></InputText>
-                            <ValidationMessage For="() => studobj.Region" />
+                            <label class="control-label"> Country</label>
+                            <InputSelect for="Country" class="form-control" @bind-Value="@studobj.Country">
+                                <option value="">Select Country</option>
+                                @foreach (var country in Countries)
+                                {
+                                    <option value="@country.Name">@country.Name</option>
+
+                                }
+                            </InputSelect>
+                            <ValidationMessage For="() => studobj.Country" />
 
                         </div>
                     </div>
@@ -83,6 +90,11 @@
 @code {
     [SupplyParameterFromForm]
     public Student studobj { get; set; } = new();
+    public List<Country> Countries = new List<Country>();
+    protected override async Task OnInitializedAsync()
+    {
+        Countries = await CountryService.GetAllAsync();
+    }
     protected async Task CreateStudent()
     {
         var result = await StudentService.AddStudentAsync(studobj);

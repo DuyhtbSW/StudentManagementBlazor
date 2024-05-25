@@ -1,7 +1,6 @@
 using Microsoft.AspNetCore.Components.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using StudentManagement.Client.Pages;
 using StudentManagement.Components;
 using StudentManagement.Components.Account;
 using StudentManagement.Data;
@@ -42,7 +41,7 @@ builder.Services.AddIdentityCore<ApplicationUser>(options => options.SignIn.Requ
 builder.Services.AddSingleton<IEmailSender<ApplicationUser>, IdentityNoOpEmailSender>();
 
 builder.Services.AddScoped<IStudentRepository, StudentRepository>();
-
+builder.Services.AddScoped<ICountryRepository, CountryRepository>();
 
 
 builder.Services.AddScoped(http => new HttpClient

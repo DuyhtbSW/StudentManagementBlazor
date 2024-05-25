@@ -19,6 +19,6 @@ namespace StudentManagement.Shared.Models
         [Required]
         public string? City { get; set; }
         [Required]
-        public string Region { get; set; }
+        public string Country { get; set; }
     }
 }
