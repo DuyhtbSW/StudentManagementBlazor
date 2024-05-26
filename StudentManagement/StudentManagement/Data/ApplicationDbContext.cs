@@ -9,7 +9,8 @@ namespace StudentManagement.Data
         public DbSet<Student> Students { get; set; }
         public DbSet<Country> Countries { get; set; }
         public DbSet<SystemCode> SystemCodes { get; set; }
-        public DbSet<SystemCodeDetail> SystemCodesDetails { get; set; }
+        public DbSet<SystemCodeDetail> SystemCodeDetails { get; set; }
+        public DbSet<Parent> Parents { get; set; }  
 
     }
 }

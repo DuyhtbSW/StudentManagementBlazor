@@ -1,8 +1,9 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using StudentManagement.Data;
-using StudentManagement.Services;
-using StudentManagement.Shared.Models;
 using StudentManagement.Client.Repository;
+using StudentManagement.Data;
+using StudentManagement.Shared.Models;
+
+
 
 namespace StudentManagement.Services
 {
@@ -38,7 +39,7 @@ namespace StudentManagement.Services
 
         public async Task<List<Student>> GetAllStudentsAsync()
         {
-            var students = await _context.Students.ToListAsync();
+            var students = await _context.Students.Include(x => x.Country).ToListAsync();
 
             return students;
         }

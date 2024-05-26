@@ -6,19 +6,20 @@ namespace StudentManagement.Shared.Models
     {
         [Key]
         public int Id { get; set; }
-        [Required ]
-        public string? FirstName { get; set; }
-        [Required]
-        public string? LastName { get; set; }
-        [Required]
-        public string Email { get; set; }
-        [Required]
-        public string? Phone { get; set; }
-        [Required]
+        public string RegistrationNo { get; set; }
+        public string FirstName { get; set; }
+        public string MiddleName { get; set; }
+        public string LastName { get; set; }
+
+        public string FullName => $"{FirstName} {MiddleName} {LastName}";
+        public string EmailAddress { get; set; }
         public string Address { get; set; }
-        [Required]
-        public string? City { get; set; }
-        [Required]
-        public string Country { get; set; }
+        public string PhoneNumber { get; set; }
+        public int CountryId { get; set; }
+
+        public Country Country { get; set; }
+        public int GenderId { get; set; }
+        public SystemCodeDetail Gender { get; set; }
+        public DateTime DOB { get; set; }
     }
 }

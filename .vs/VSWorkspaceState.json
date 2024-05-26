@@ -2,10 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\StudentManagement",
+    "\\StudentManagement\\StudentManagement",
     "\\StudentManagement\\StudentManagement.Client",
     "\\StudentManagement\\StudentManagement.Client\\Pages",
-    "\\StudentManagement\\StudentManagement.Client\\Pages\\Students"
+    "\\StudentManagement\\StudentManagement.Client\\Pages\\Students",
+    "\\StudentManagement\\StudentManagement.Client\\Services",
+    "\\StudentManagement\\StudentManagement\\Components",
+    "\\StudentManagement\\StudentManagement\\Components\\Pages",
+    "\\StudentManagement\\StudentManagement\\Services"
   ],
-  "SelectedNode": "\\StudentManagement.sln",
+  "SelectedNode": "\\StudentManagement\\StudentManagement\\Services\\ParentRepository.cs",
   "PreviewInSolutionExplorer": false
 }

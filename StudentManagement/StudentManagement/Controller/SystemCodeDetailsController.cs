@@ -23,16 +23,16 @@ namespace StudentManagement.Controller
 
         // GET: api/SystemCodeDetails
         [HttpGet("All-SystemCodeDetails")]
-        public async Task<ActionResult<IEnumerable<SystemCodeDetail>>> GetSystemCodesDetails()
+        public async Task<ActionResult<IEnumerable<SystemCodeDetail>>> GetSystemCodeDetails()
         {
-            return await _context.SystemCodesDetails.ToListAsync();
+            return await _context.SystemCodeDetails.ToListAsync();
         }
 
         // GET: api/SystemCodeDetails/5
         [HttpGet("Single-SystemCodeDetails/{id}")]
         public async Task<ActionResult<SystemCodeDetail>> GetSystemCodeDetail(int id)
         {
-            var systemCodeDetail = await _context.SystemCodesDetails.FindAsync(id);
+            var systemCodeDetail = await _context.SystemCodeDetails.FindAsync(id);
 
             if (systemCodeDetail == null)
             {
@@ -78,7 +78,7 @@ namespace StudentManagement.Controller
         [HttpPost("Add-SystemCodeDetails")]
         public async Task<ActionResult<SystemCodeDetail>> AddNewSystemCodeDetail(SystemCodeDetail systemCodeDetail)
         {
-            _context.SystemCodesDetails.Add(systemCodeDetail);
+            _context.SystemCodeDetails.Add(systemCodeDetail);
             await _context.SaveChangesAsync();
 
             return CreatedAtAction("GetSystemCodeDetail", new { id = systemCodeDetail.id }, systemCodeDetail);
@@ -88,13 +88,13 @@ namespace StudentManagement.Controller
         [HttpDelete("Delete-SystemCodeDetails/{id}")]
         public async Task<IActionResult> DeleteSystemCodeDetail(int id)
         {
-            var systemCodeDetail = await _context.SystemCodesDetails.FindAsync(id);
+            var systemCodeDetail = await _context.SystemCodeDetails.FindAsync(id);
             if (systemCodeDetail == null)
             {
                 return NotFound();
             }
 
-            _context.SystemCodesDetails.Remove(systemCodeDetail);
+            _context.SystemCodeDetails.Remove(systemCodeDetail);
             await _context.SaveChangesAsync();
 
             return NoContent();
@@ -102,7 +102,7 @@ namespace StudentManagement.Controller
 
         private bool SystemCodeDetailExists(int id)
         {
-            return _context.SystemCodesDetails.Any(e => e.id == id);
+            return _context.SystemCodeDetails.Any(e => e.id == id);
         }
     }
 }

@@ -46,6 +46,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRyeVxFZGl0Q291bnRyeS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Admin/Desktop/.Net/StudentManagement/StudentManagementBlazor/StudentManagement/StudentManagement.Client/Pages/Parent/AddParent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFyZW50XEFkZFBhcmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/.Net/StudentManagement/StudentManagementBlazor/StudentManagement/StudentManagement.Client/Pages/Parent/Parentslist.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFyZW50XFBhcmVudHNsaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Admin/Desktop/.Net/StudentManagement/StudentManagementBlazor/StudentManagement/StudentManagement.Client/Pages/Students/AddNewStudent.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcQWRkTmV3U3R1ZGVudC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -60,6 +68,26 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Admin/Desktop/.Net/StudentManagement/StudentManagementBlazor/StudentManagement/StudentManagement.Client/Pages/Students/Studentslist.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3R1ZGVudHNcU3R1ZGVudHNsaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/.Net/StudentManagement/StudentManagementBlazor/StudentManagement/StudentManagement.Client/Pages/SystemCodeDetails/AddSystemCodeDetail.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3lzdGVtQ29kZURldGFpbHNcQWRkU3lzdGVtQ29kZURldGFpbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/.Net/StudentManagement/StudentManagementBlazor/StudentManagement/StudentManagement.Client/Pages/SystemCodeDetails/SystemCodeDetailsList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3lzdGVtQ29kZURldGFpbHNcU3lzdGVtQ29kZURldGFpbHNMaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/.Net/StudentManagement/StudentManagementBlazor/StudentManagement/StudentManagement.Client/Pages/SystemCodes/AddSystemCodes.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3lzdGVtQ29kZXNcQWRkU3lzdGVtQ29kZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/.Net/StudentManagement/StudentManagementBlazor/StudentManagement/StudentManagement.Client/Pages/SystemCodes/EditSystemCodes.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3lzdGVtQ29kZXNcRWRpdFN5c3RlbUNvZGVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/.Net/StudentManagement/StudentManagementBlazor/StudentManagement/StudentManagement.Client/Pages/SystemCodes/SystemCodesList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3lzdGVtQ29kZXNcU3lzdGVtQ29kZXNMaXN0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Admin/Desktop/.Net/StudentManagement/StudentManagementBlazor/StudentManagement/StudentManagement.Client/RedirectToLogin.razor]
