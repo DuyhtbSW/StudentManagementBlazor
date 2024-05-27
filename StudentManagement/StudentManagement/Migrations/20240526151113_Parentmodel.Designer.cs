@@ -371,7 +371,7 @@ namespace StudentManagement.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("SystemCodes");
+                    b.ToTable("System");
                 });
 
             modelBuilder.Entity("StudentManagement.Shared.Models.SystemCodeDetail", b =>

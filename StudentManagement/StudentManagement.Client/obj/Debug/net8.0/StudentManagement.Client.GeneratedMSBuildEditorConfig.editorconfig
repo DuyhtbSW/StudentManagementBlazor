@@ -90,6 +90,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3lzdGVtQ29kZXNcU3lzdGVtQ29kZXNMaXN0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Admin/Desktop/.Net/StudentManagement/StudentManagementBlazor/StudentManagement/StudentManagement.Client/Pages/Teachers/AddTeacher.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVhY2hlcnNcQWRkVGVhY2hlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/.Net/StudentManagement/StudentManagementBlazor/StudentManagement/StudentManagement.Client/Pages/Teachers/EditTeacher.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVhY2hlcnNcRWRpdFRlYWNoZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/.Net/StudentManagement/StudentManagementBlazor/StudentManagement/StudentManagement.Client/Pages/Teachers/TeachersList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVhY2hlcnNcVGVhY2hlcnNMaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Admin/Desktop/.Net/StudentManagement/StudentManagementBlazor/StudentManagement/StudentManagement.Client/RedirectToLogin.razor]
 build_metadata.AdditionalFiles.TargetPath = UmVkaXJlY3RUb0xvZ2luLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 

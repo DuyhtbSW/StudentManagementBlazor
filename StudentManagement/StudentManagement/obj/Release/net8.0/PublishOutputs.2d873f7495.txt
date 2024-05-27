@@ -70,6 +70,8 @@ C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentMan
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement\obj\Release\net8.0\PubTmp\Out\Microsoft.JSInterop.dll
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement\obj\Release\net8.0\PubTmp\Out\Microsoft.JSInterop.WebAssembly.dll
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement\obj\Release\net8.0\PubTmp\Out\Microsoft.NET.StringTools.dll
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement\obj\Release\net8.0\PubTmp\Out\Microsoft.PowerBI.Api.dll
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement\obj\Release\net8.0\PubTmp\Out\Microsoft.Rest.ClientRuntime.dll
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement\obj\Release\net8.0\PubTmp\Out\Microsoft.SqlServer.Server.dll
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement\obj\Release\net8.0\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.dll
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement\obj\Release\net8.0\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll

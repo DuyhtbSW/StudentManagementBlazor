@@ -1,5 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using StudentManagement.Client.Repository;
+using StudentManagement.Data;
 using StudentManagement.Shared.Models;
 
 namespace StudentManagement.Controller
@@ -9,6 +11,7 @@ namespace StudentManagement.Controller
     public class StudentController : ControllerBase
     {
         private readonly IStudentRepository _studentRepository;
+        private readonly ApplicationDbContext _context;
         public StudentController(IStudentRepository studentRepository)
         {
             this._studentRepository = studentRepository;
@@ -40,11 +43,22 @@ namespace StudentManagement.Controller
         }
 
 
-        [HttpDelete("DeleteStudent/{id}")]
+        [HttpDelete("Delete-Student/{id}")]
         public async Task<ActionResult<Student>> DeleteStudentAsync(int id)
         {
-            var deletestudent = await _studentRepository.DeleteStudentAsync(id);
+            
 
+         
+            var deletestudent = await _studentRepository.DeleteStudentAsync(id);
+            if (deletestudent== null)
+            {
+                return NotFound();
+            }
+
+           _context.Students.Remove(deletestudent);
+            await _context.SaveChangesAsync();
+
+          
             return Ok(deletestudent);
         }
 

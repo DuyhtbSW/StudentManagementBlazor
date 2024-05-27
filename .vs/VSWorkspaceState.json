@@ -9,8 +9,9 @@
     "\\StudentManagement\\StudentManagement.Client\\Services",
     "\\StudentManagement\\StudentManagement\\Components",
     "\\StudentManagement\\StudentManagement\\Components\\Pages",
+    "\\StudentManagement\\StudentManagement\\Data",
     "\\StudentManagement\\StudentManagement\\Services"
   ],
-  "SelectedNode": "\\StudentManagement\\StudentManagement\\Services\\ParentRepository.cs",
+  "SelectedNode": "\\StudentManagement\\StudentManagement\\Data\\ApplicationDbContext.cs",
   "PreviewInSolutionExplorer": false
 }

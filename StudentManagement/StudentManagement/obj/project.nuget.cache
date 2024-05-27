@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "BYmtEeYjrH9si8/cX1ehvNd05r7gqKwn7waEqFQPMhlb0QHUZ7pdmdPHkXeRk1TadkOWJDAY2L0jzHxWKhmpDg==",
+  "dgSpecHash": "1Qp0S+7uotwljXP5gAWrFX76d/VhUiEtG5CTyO/vcqfGG1fV897bVL0AhN5oONumg3/hztQuPPocZroUxXY3+g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement\\StudentManagement.csproj",
   "expectedPackageFiles": [
@@ -129,6 +129,8 @@
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.net.stringtools\\17.8.3\\microsoft.net.stringtools.17.8.3.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.powerbi.api\\4.19.0\\microsoft.powerbi.api.4.19.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.24\\microsoft.rest.clientruntime.2.3.24.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration\\8.0.2\\microsoft.visualstudio.web.codegeneration.8.0.2.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.core\\8.0.2\\microsoft.visualstudio.web.codegeneration.core.8.0.2.nupkg.sha512",
