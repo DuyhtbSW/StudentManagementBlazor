@@ -12,6 +12,6 @@
     "\\StudentManagement\\StudentManagement\\Data",
     "\\StudentManagement\\StudentManagement\\Services"
   ],
-  "SelectedNode": "\\StudentManagement\\StudentManagement\\Data\\ApplicationDbContext.cs",
+  "SelectedNode": "\\StudentManagement\\StudentManagement\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

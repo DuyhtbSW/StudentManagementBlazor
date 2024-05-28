@@ -3,8 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{87A5EF87-708D-494E-BD71-D4C6B686D4C6}|StudentManagement.Shared\\StudentManagement.Shared.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement.shared\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A5EF87-708D-494E-BD71-D4C6B686D4C6}|StudentManagement.Shared\\StudentManagement.Shared.csproj|solutionrelative:studentmanagement.shared\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88B8728-5919-4412-A298-113FB937781C}|StudentManagement\\StudentManagement\\StudentManagement.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88B8728-5919-4412-A298-113FB937781C}|StudentManagement\\StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\studentmanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement.client\\pages\\subjects\\addsubject.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\pages\\subjects\\addsubject.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement.client\\pages\\subjects\\editsubject.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\pages\\subjects\\editsubject.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement\\Migrations\\20240528081933_Subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentManagement\\StudentManagement\\Migrations\\20240528081933_Subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C88B8728-5919-4412-A298-113FB937781C}|StudentManagement\\StudentManagement\\StudentManagement.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C88B8728-5919-4412-A298-113FB937781C}|StudentManagement\\StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88B8728-5919-4412-A298-113FB937781C}|StudentManagement\\StudentManagement\\StudentManagement.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement\\services\\subjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88B8728-5919-4412-A298-113FB937781C}|StudentManagement\\StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\studentmanagement\\services\\subjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement.client\\repository\\isubjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\repository\\isubjectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement.client\\pages\\subjects\\subjectslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\pages\\subjects\\subjectslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A5EF87-708D-494E-BD71-D4C6B686D4C6}|StudentManagement.Shared\\StudentManagement.Shared.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement.shared\\models\\usercreateactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A5EF87-708D-494E-BD71-D4C6B686D4C6}|StudentManagement.Shared\\StudentManagement.Shared.csproj|solutionrelative:studentmanagement.shared\\models\\usercreateactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A5EF87-708D-494E-BD71-D4C6B686D4C6}|StudentManagement.Shared\\StudentManagement.Shared.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement.shared\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A5EF87-708D-494E-BD71-D4C6B686D4C6}|StudentManagement.Shared\\StudentManagement.Shared.csproj|solutionrelative:studentmanagement.shared\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,14 +87,157 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement.Shared\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Shared\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement.Shared\\Models\\Department.cs",
+              "RelativeToolTip": "StudentManagement.Shared\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T08:27:06.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "StudentManagement\\StudentManagement\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T08:13:40.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddSubject.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Subjects\\AddSubject.razor",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\Subjects\\AddSubject.razor",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Subjects\\AddSubject.razor",
+              "RelativeToolTip": "StudentManagement\\StudentManagement.Client\\Pages\\Subjects\\AddSubject.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T08:14:56.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240528081933_Subject.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement\\Migrations\\20240528081933_Subject.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement\\Migrations\\20240528081933_Subject.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement\\Migrations\\20240528081933_Subject.cs",
+              "RelativeToolTip": "StudentManagement\\StudentManagement\\Migrations\\20240528081933_Subject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T08:19:34.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\_Imports.razor",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\_Imports.razor",
+              "RelativeToolTip": "StudentManagement\\StudentManagement.Client\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T08:17:47.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SubjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement\\Services\\SubjectRepository.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement\\Services\\SubjectRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement\\Services\\SubjectRepository.cs",
+              "RelativeToolTip": "StudentManagement\\StudentManagement\\Services\\SubjectRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T08:16:33.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISubjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Repository\\ISubjectRepository.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Repository\\ISubjectRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Repository\\ISubjectRepository.cs",
+              "RelativeToolTip": "StudentManagement\\StudentManagement.Client\\Repository\\ISubjectRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T08:15:55.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SubjectsList.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Subjects\\SubjectsList.razor",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\Subjects\\SubjectsList.razor",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Subjects\\SubjectsList.razor",
+              "RelativeToolTip": "StudentManagement\\StudentManagement.Client\\Pages\\Subjects\\SubjectsList.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T08:15:03.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditSubject.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Subjects\\EditSubject.razor",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\Subjects\\EditSubject.razor",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Subjects\\EditSubject.razor",
+              "RelativeToolTip": "StudentManagement\\StudentManagement.Client\\Pages\\Subjects\\EditSubject.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T08:15:00.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement\\Program.cs",
               "RelativeDocumentMoniker": "StudentManagement\\StudentManagement\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement\\Program.cs",
               "RelativeToolTip": "StudentManagement\\StudentManagement\\Program.cs",
-              "ViewState": "AQIAADsAAAAAAAAAAAAjwEcAAAAAAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAADEAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-27T05:10:33.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserCreateActivity.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement.Shared\\Models\\UserCreateActivity.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Shared\\Models\\UserCreateActivity.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement.Shared\\Models\\UserCreateActivity.cs",
+              "RelativeToolTip": "StudentManagement.Shared\\Models\\UserCreateActivity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T08:12:53.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement.Shared\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Shared\\Models\\Subject.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement.Shared\\Models\\Subject.cs",
+              "RelativeToolTip": "StudentManagement.Shared\\Models\\Subject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T08:11:49.914Z",
               "EditorCaption": ""
             }
           ]
