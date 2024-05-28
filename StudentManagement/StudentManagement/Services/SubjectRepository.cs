@@ -15,7 +15,7 @@ namespace StudentManagement.Services
         }
         public async Task<Subject> AddAsync(Subject mod)
         {
-            mod.CreatedById = "Macro Code";
+            mod.CreatedById = "Bao Duy";
             mod.CreatedOn = DateTime.Now;
             if (mod == null) return null;
 
