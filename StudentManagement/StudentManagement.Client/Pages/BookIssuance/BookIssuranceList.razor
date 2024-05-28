@@ -1,0 +1,99 @@
+﻿@page "/issurancehistory-list"
+@using StudentManagement.Shared.Models
+@inject NavigationManager navigation;
+@inject IJSRuntime JsRuntime
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title">Book Issurance List</h3>
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <p><a class="btn btn-success float-end" href="/add-bookissurance">Issurance New Book</a></p>
+                    <div class="col-md-12">
+                        <div class="card">
+                            <div class="card-header"></div>
+                            @if (!AllBookIssuranceHistory.Any())
+                            {
+                                <p><em>Loading Issurance...</em></p>
+                            }
+                            @if (AllBookIssuranceHistory.Any())
+                            {
+                                <div class="card-body">
+                                    <table class="table table-striped table-hover">
+                                        <thead>
+                                            <tr>
+                                                <th>Id</th>
+
+                                                <th>Issuan Date </th>
+                                                <th>Return Date</th>
+
+                                                <th>Class Name </th>
+                                                <th>Student Name</th>
+
+                                                <th>Book Name</th>
+                                                <th>Edit</th>
+                                                <th>Return</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            @foreach (var issue in AllBookIssuranceHistory)
+                                            {
+                                                <tr>
+                                                    <td>@issue.Id</td>
+                                                    <td>@issue.IssueDate</td>
+                                                    <td>@issue.ReturnDate</td>
+
+                                                    <td>@issue.Class.Description</td>
+                                                    <td>@issue.Student.FullName</td>
+                                                    <td>@issue.Book.Name</td>
+                                                    <td>
+                                                        <a class="btn btn-success" href="/issue/edit/@issue.Id"> Edit </a>
+                                                    </td>
+                                                    <td>
+                                                        <a class="btn btn-secondary" href="/issue/edit/@issue.Id"> Return </a>
+                                                    </td>
+                                                </tr>
+                                            }
+                                        </tbody>
+                                    </table>
+                                </div>
+                            }
+                            else
+                            {
+                                <div class="alert alert-info"> There is no Issurance List Availlable</div>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@code {
+    public List<BookIssuance> AllBookIssuranceHistory { get; set; } = new();
+
+    public Department department = new Department();
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadAllBookIssuranceHistory();
+    }
+    public async Task LoadAllBookIssuranceHistory()
+    {
+        var data = await IssuranceService.GetAllAsync();
+
+         if (data is null) return;
+
+         AllBookIssuranceHistory.Clear();
+
+         AllBookIssuranceHistory.AddRange(data);
+    }
+    private void EditIssurance (int id)
+    {
+        navigation.NavigateTo($"/bookissurance/edit/{id}");
+    }
+    
+}

@@ -1,0 +1,138 @@
+﻿@page "/issue/edit/{id:int}"
+@using StudentManagement.Shared.Models
+@inject NavigationManager navigation;
+@inject IJSRuntime JsRuntime
+@rendermode InteractiveServer
+
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-header">
+                <h3 class="card-title">Update Issurance Details</h3>
+            </div>
+            <div class="card-body">
+                <div class="col-md-12">
+                    <EditForm Model="issuranceobj" OnValidSubmit="UpdateIssurance" FormName="updateissurance">
+                        <DataAnnotationsValidator />
+                        <ValidationSummary />
+                        <div class="col-md-12">
+                            <div class="row">
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <label class="control-label"> Issue Date </label>
+                                        <InputDate for="IssueDate" class="form-control" @bind-Value="@issuranceobj.IssueDate"></InputDate>
+                                        <ValidationMessage For="() => issuranceobj.IssueDate" />
+
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <label class="control-label"> Return Date </label>
+                                        <InputDate for="ReturnDate" class="form-control" @bind-Value="@issuranceobj.ReturnDate"></InputDate>
+                                        <ValidationMessage For="() => issuranceobj.ReturnDate" />
+
+                                    </div>
+                                </div>
+
+
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <label class="control-label">Class</label>
+                                        <InputSelect for="GenderId" class="form-control" @bind-Value="@issuranceobj.ClassId">
+                                            <option value="">Select Class</option>
+                                            @if (Class != null && Class.Any())
+                                            {
+                                                @foreach (var item in Class)
+                                                {
+                                                    <option value="@item.id">@item.Description</option>
+                                                }
+
+                                            }
+                                        </InputSelect>
+                                        <ValidationMessage For="() => issuranceobj.ClassId" />
+
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <label class="control-label"> Book Type</label>
+                                        <InputSelect for="BookId" class="form-control" @bind-Value="@issuranceobj.BookId">
+                                            <option value="">Select Book Type</option>
+
+                                            @foreach (var type in Books)
+                                            {
+                                                <option value="@type.Id"> @type.Name</option>
+                                            }
+
+
+                                        </InputSelect>
+                                        <ValidationMessage For="() => issuranceobj.BookId" />
+
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <label class="control-label"> Student</label>
+                                        <InputSelect for="StudentId" class="form-control" @bind-Value="@issuranceobj.StudentId">
+                                            <option value="">Select Student</option>
+                                            @foreach (var student in Students)
+                                            {
+
+                                                <option value="@student.Id"> @student.FullName</option>
+
+
+                                            }
+                                        </InputSelect>
+                                        <ValidationMessage For="() => issuranceobj.StudentId" />
+
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <label class="control-label"> Note  </label>
+                                        <InputTextArea for="Notes" class="form-control" @bind-Value="@issuranceobj.Notes"></InputTextArea>
+                                        <ValidationMessage For="() => issuranceobj.Notes" />
+
+                                    </div>
+                                </div>
+                                </div>
+                            <div class="form-group mt-4">
+                                <button type="submit" class="btn btn-primary">Save Issurance History</button>
+                                <button type="button" @onclick="()=>Cancel()" class="btn btn-danger">Back to List</button>
+                            </div>
+                        </div>
+                    </EditForm>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+@code {
+
+    [SupplyParameterFromForm]
+    public BookIssuance issuranceobj { get; set; } = new();
+    public List<SystemCodeDetail> Class = new List<SystemCodeDetail>();
+    List<Book> Books = new List<Book>();
+    List<Student> Students = new List<Student>();
+
+    [Parameter]
+    public int id { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        issuranceobj = await IssuranceService.GetByIdAsync(id);
+        Class = await SystemCodeDetailService.GetByCodeAsync("Class");
+        Books = await BookService.GetAllAsync();
+        Students = await StudentService.GetAllStudentsAsync(); 
+    }
+
+    protected async Task UpdateIssurance()
+    {
+        var result = await IssuranceService.UpdateAsync(issuranceobj);
+        navigation.NavigateTo("/issurancehistory-list");
+    }
+    public void Cancel()
+    {
+        navigation.NavigateTo("/issurancehistory-list");
+    }
+}

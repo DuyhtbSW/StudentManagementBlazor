@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DHA5r+4JpfBT8AbzJkwWosW5BfexfD98h6PowUlpbZE=",
+  "Hash": "IvN4ONmW2XjKty5nvacLKH4jFTKvavGyQYHyhYzl1+o=",
   "Source": "StudentManagement.Client",
   "BasePath": "/",
   "Mode": "Default",
@@ -72,6 +72,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\8.0.5\\build\\net8.0\\blazor.webassembly.js"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\bin\\Release\\net8.0\\wwwroot\\_framework\\cloudscribe.Pagination.Models.wasm",
+      "SourceId": "StudentManagement.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\bin\\Release\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/cloudscribe.Pagination.Models.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\obj\\Release\\net8.0\\webcil\\cloudscribe.Pagination.Models.wasm"
     },
     {
       "Identity": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\bin\\Release\\net8.0\\wwwroot\\_framework\\dotnet.js",
@@ -832,6 +851,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\obj\\Release\\net8.0\\webcil\\netstandard.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\bin\\Release\\net8.0\\wwwroot\\_framework\\Pagination.wasm",
+      "SourceId": "StudentManagement.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\bin\\Release\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Pagination.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\obj\\Release\\net8.0\\webcil\\Pagination.wasm"
     },
     {
       "Identity": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\bin\\Release\\net8.0\\wwwroot\\_framework\\StudentManagement.Client.pdb",
@@ -3988,6 +4026,25 @@
       "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\obj\\Release\\net8.0\\webcil\\WindowsBase.wasm"
     },
     {
+      "Identity": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\obj\\Release\\net8.0\\compressed\\08t8r3wvsu.gz",
+      "SourceId": "StudentManagement.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\bin\\Release\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Pagination.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\bin\\Release\\net8.0\\wwwroot\\_framework\\Pagination.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\bin\\Release\\net8.0\\wwwroot\\_framework\\Pagination.wasm"
+    },
+    {
       "Identity": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\obj\\Release\\net8.0\\compressed\\09kuq0jlip.gz",
       "SourceId": "StudentManagement.Client",
       "SourceType": "Computed",
@@ -4727,6 +4784,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\bin\\Release\\net8.0\\wwwroot\\_framework\\System.Runtime.InteropServices.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\obj\\Release\\net8.0\\compressed\\5pzp640o29.gz",
+      "SourceId": "StudentManagement.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\bin\\Release\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/cloudscribe.Pagination.Models.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\bin\\Release\\net8.0\\wwwroot\\_framework\\cloudscribe.Pagination.Models.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\bin\\Release\\net8.0\\wwwroot\\_framework\\cloudscribe.Pagination.Models.wasm"
     },
     {
       "Identity": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\obj\\Release\\net8.0\\compressed\\5q8qf21m2l.gz",

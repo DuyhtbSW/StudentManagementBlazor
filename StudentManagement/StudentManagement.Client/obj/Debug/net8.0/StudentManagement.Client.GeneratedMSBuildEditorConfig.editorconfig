@@ -26,6 +26,18 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Admin/Desktop/.Net/StudentManagement/StudentManagementBlazor/StudentManagement/StudentManagement.Client/Pages/BookIssuance/AddNewBookIssurance.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va0lzc3VhbmNlXEFkZE5ld0Jvb2tJc3N1cmFuY2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/.Net/StudentManagement/StudentManagementBlazor/StudentManagement/StudentManagement.Client/Pages/BookIssuance/BookIssuranceList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va0lzc3VhbmNlXEJvb2tJc3N1cmFuY2VMaXN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/.Net/StudentManagement/StudentManagementBlazor/StudentManagement/StudentManagement.Client/Pages/BookIssuance/EditBookIssurance.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va0lzc3VhbmNlXEVkaXRCb29rSXNzdXJhbmNlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Admin/Desktop/.Net/StudentManagement/StudentManagementBlazor/StudentManagement/StudentManagement.Client/Pages/Book/AddBook.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va1xBZGRCb29rLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
@@ -56,6 +68,22 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Admin/Desktop/.Net/StudentManagement/StudentManagementBlazor/StudentManagement/StudentManagement.Client/Pages/Country/EditCountry.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRyeVxFZGl0Q291bnRyeS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/.Net/StudentManagement/StudentManagementBlazor/StudentManagement/StudentManagement.Client/Pages/Department/AddDepartment.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVwYXJ0bWVudFxBZGREZXBhcnRtZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/.Net/StudentManagement/StudentManagementBlazor/StudentManagement/StudentManagement.Client/Pages/Department/DepartmentsList.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVwYXJ0bWVudFxEZXBhcnRtZW50c0xpc3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/.Net/StudentManagement/StudentManagementBlazor/StudentManagement/StudentManagement.Client/Pages/Department/EditDepartment.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVwYXJ0bWVudFxFZGl0RGVwYXJ0bWVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/.Net/StudentManagement/StudentManagementBlazor/StudentManagement/StudentManagement.Client/Pages/PaginationComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnaW5hdGlvbkNvbXBvbmVudC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Admin/Desktop/.Net/StudentManagement/StudentManagementBlazor/StudentManagement/StudentManagement.Client/Pages/Parent/AddParent.razor]

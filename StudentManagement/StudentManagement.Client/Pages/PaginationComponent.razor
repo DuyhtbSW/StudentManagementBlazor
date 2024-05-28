@@ -1,0 +1,30 @@
+﻿<div class="d-flex justify-content-center">
+    <ul class="pagination">
+        @if (CurrentPage > 1)
+        {
+            <li class="page-item">
+                <button class="page-link" @onclick="() => OnPageChanged.InvokeAsync(CurrentPage - 1)">Previous</button>
+            </li>
+        }
+
+        @for (int i = 1; i <= TotalPages; i++)
+        {
+            <li class="page-item @(i == CurrentPage ? "active" : "")">
+                <button class="page-link" @onclick="() => OnPageChanged.InvokeAsync(i)">@i</button>
+            </li>
+        }
+
+        @if (CurrentPage < TotalPages)
+        {
+            <li class="page-item">
+                <button class="page-link" @onclick="() => OnPageChanged.InvokeAsync(CurrentPage + 1)">Next</button>
+            </li>
+        }
+    </ul>
+</div>
+
+@code {
+    [Parameter] public int CurrentPage { get; set; }
+    [Parameter] public int TotalPages { get; set; }
+    [Parameter] public EventCallback<int> OnPageChanged { get; set; }
+}

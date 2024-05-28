@@ -17,6 +17,7 @@ C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentMan
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement\obj\Release\net8.0\PubTmp\Out\StudentManagement.pdb
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement\obj\Release\net8.0\PubTmp\Out\Azure.Core.dll
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement\obj\Release\net8.0\PubTmp\Out\Azure.Identity.dll
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement\obj\Release\net8.0\PubTmp\Out\cloudscribe.Pagination.Models.dll
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement\obj\Release\net8.0\PubTmp\Out\Humanizer.dll
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.Authorization.dll
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.Components.dll
@@ -92,6 +93,7 @@ C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentMan
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement\obj\Release\net8.0\PubTmp\Out\NuGet.ProjectModel.dll
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement\obj\Release\net8.0\PubTmp\Out\NuGet.Protocol.dll
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement\obj\Release\net8.0\PubTmp\Out\NuGet.Versioning.dll
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement\obj\Release\net8.0\PubTmp\Out\Pagination.dll
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement\obj\Release\net8.0\PubTmp\Out\System.CodeDom.dll
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement\obj\Release\net8.0\PubTmp\Out\System.Composition.AttributedModel.dll
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement\obj\Release\net8.0\PubTmp\Out\System.Composition.Convention.dll

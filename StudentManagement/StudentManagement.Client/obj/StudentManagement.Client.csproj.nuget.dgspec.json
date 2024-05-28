@@ -140,6 +140,14 @@
               "target": "Package",
               "version": "[8.0.4, )",
               "autoReferenced": true
+            },
+            "Pagination": {
+              "target": "Package",
+              "version": "[3.0.0.3, )"
+            },
+            "cloudscribe.Pagination.Models": {
+              "target": "Package",
+              "version": "[1.1.0, )"
             }
           },
           "imports": [

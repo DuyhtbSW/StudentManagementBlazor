@@ -2,11 +2,13 @@
 @using StudentManagement.Shared.Models
 @inject NavigationManager navigation;
 @inject IJSRuntime JsRuntime
+@rendermode InteractiveServer
 <div class="row">
     <div class="col-12">
         <div class="card">
             <div class="card-header">
                 <h3 class="card-title">Subjects List</h3>
+                <input type="text" @bind="searchTerm" @oninput="ApplyFilters" placeholder="Search..." class="form-control" />
             </div>
             <div class="card-body">
                 <div class="row">
@@ -14,26 +16,22 @@
                     <div class="col-md-12">
                         <div class="card">
                             <div class="card-header"></div>
-                            @if (!AllSubjects.Any())
-                            {
-                                <p><em>Loading Subjects...</em></p>
-                            }
-                            @if (AllSubjects.Any())
+                            @if (PagedSubjects.Any())
                             {
                                 <div class="card-body">
                                     <table class="table table-striped table-hover">
                                         <thead>
                                             <tr>
-                                                <th>Id</th>
-                                                <th>Subject Name</th>
-                                                <th>Subject Description</th>
-                                                <th>Created By</th>
-                                                <th>Created On</th>
+                                                <th @onclick="() => SortByColumn(nameof(Subject.Id))">Id</th>
+                                                <th @onclick="() => SortByColumn(nameof(Subject.Name))">Subject Name</th>
+                                                <th @onclick="() => SortByColumn(nameof(Subject.Description))">Subject Description</th>
+                                                <th @onclick="() => SortByColumn(nameof(Subject.CreatedById))">Created By</th>
+                                                <th @onclick="() => SortByColumn(nameof(Subject.CreatedOn))">Created On</th>
                                                 <th>Edit</th>
                                             </tr>
                                         </thead>
                                         <tbody>
-                                            @foreach (var subject in AllSubjects)
+                                            @foreach (var subject in PagedSubjects)
                                             {
                                                 <tr>
                                                     <td>@subject.Id</td>
@@ -48,6 +46,11 @@
                                             }
                                         </tbody>
                                     </table>
+                                    <div class="pagination">
+                                        <button class="btn btn-primary" @onclick="PreviousPage" disabled="@(currentPage == 1)">Previous</button>
+                                        <span>Page @currentPage of @totalPages</span>
+                                        <button class="btn btn-primary" @onclick="NextPage" disabled="@(currentPage == totalPages)">Next</button>
+                                    </div>
                                 </div>
                             }
                             else
@@ -64,21 +67,91 @@
 
 @code {
     public List<Subject> AllSubjects { get; set; } = new();
+    public List<Subject> PagedSubjects { get; set; } = new();
+    public string searchTerm { get; set; } = string.Empty;
+    private int currentPage = 1;
+    private int pageSize = 10;
+    private int totalPages => (int)Math.Ceiling((double)FilteredSubjects.Count / pageSize);
 
-    public Subject subject = new Subject();
+    private string currentSortColumn = nameof(Subject.Id);
+    private bool isSortAscending = true;
 
     protected override async Task OnInitializedAsync()
     {
         await LoadAllSubjects();
     }
+
     public async Task LoadAllSubjects()
     {
         var data = await SubjectService.GetAllAsync();
-
-        if (data is null) return;
-
         AllSubjects.Clear();
+        if (data is not null)
+        {
+            AllSubjects.AddRange(data);
+        }
+        ApplyFilters();
+    }
 
-        AllSubjects.AddRange(data);
+    private List<Subject> FilteredSubjects => string.IsNullOrEmpty(searchTerm)
+        ? AllSubjects
+        : AllSubjects.Where(s => s.Name.Contains(searchTerm, StringComparison.OrdinalIgnoreCase) ||
+                                s.Description.Contains(searchTerm, StringComparison.OrdinalIgnoreCase) ||
+                                s.CreatedById.ToString().Contains(searchTerm, StringComparison.OrdinalIgnoreCase)).ToList();
+
+    private void ApplyFilters()
+    {
+        var sortedSubjects = SortSubjects(FilteredSubjects);
+        currentPage = Math.Max(1, Math.Min(currentPage, totalPages));
+        PagedSubjects = sortedSubjects
+            .Skip((currentPage - 1) * pageSize)
+            .Take(pageSize)
+            .ToList();
+        StateHasChanged();
+    }
+
+    private List<Subject> SortSubjects(List<Subject> subjects)
+    {
+        Func<Subject, object> keySelector = currentSortColumn switch
+        {
+            nameof(Subject.Name) => s => s.Name,
+            nameof(Subject.Description) => s => s.Description,
+            nameof(Subject.CreatedById) => s => s.CreatedById,
+            nameof(Subject.CreatedOn) => s => s.CreatedOn,
+            _ => s => s.Id,
+        };
+
+        return isSortAscending ? subjects.OrderBy(keySelector).ToList() : subjects.OrderByDescending(keySelector).ToList();
+    }
+
+    private void SortByColumn(string columnName)
+    {
+        if (currentSortColumn == columnName)
+        {
+            isSortAscending = !isSortAscending;
+        }
+        else
+        {
+            currentSortColumn = columnName;
+            isSortAscending = true;
+        }
+        ApplyFilters();
+    }
+
+    private void PreviousPage()
+    {
+        if (currentPage > 1)
+        {
+            currentPage--;
+            ApplyFilters();
+        }
+    }
+
+    private void NextPage()
+    {
+        if (currentPage < totalPages)
+        {
+            currentPage++;
+            ApplyFilters();
+        }
     }
 }

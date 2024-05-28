@@ -2084,3 +2084,13 @@ C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentMan
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\obj\Debug\net8.0\refint\StudentManagement.Client.dll
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\obj\Debug\net8.0\StudentManagement.Client.pdb
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\obj\Debug\net8.0\ref\StudentManagement.Client.dll
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\cloudscribe.Pagination.Models.wasm
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\Pagination.wasm
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\cloudscribe.Pagination.Models.wasm.gz
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\wwwroot\_framework\Pagination.wasm.gz
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\cloudscribe.Pagination.Models.dll
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\bin\Debug\net8.0\Pagination.dll
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\obj\Debug\net8.0\webcil\cloudscribe.Pagination.Models.wasm
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\obj\Debug\net8.0\webcil\Pagination.wasm
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\obj\Debug\net8.0\compressed\jts56c012b.gz
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement\StudentManagement.Client\obj\Debug\net8.0\compressed\s35y836n49.gz

@@ -15,5 +15,6 @@ namespace StudentManagement.Data
         public DbSet<Subject> Subjects { get; set; }
         public DbSet<Department> Departments { get; set; }
         public DbSet<Book> Books { get; set; }
+        public DbSet<BookIssuance> BookIssuanceHistory { get; set; }
     }
 }

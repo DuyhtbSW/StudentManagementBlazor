@@ -5,13 +5,12 @@
     "\\StudentManagement\\StudentManagement",
     "\\StudentManagement\\StudentManagement.Client",
     "\\StudentManagement\\StudentManagement.Client\\Pages",
-    "\\StudentManagement\\StudentManagement.Client\\Pages\\Students",
-    "\\StudentManagement\\StudentManagement.Client\\Services",
+    "\\StudentManagement\\StudentManagement.Client\\Pages\\Book",
+    "\\StudentManagement\\StudentManagement.Client\\Pages\\BookIssuance",
     "\\StudentManagement\\StudentManagement\\Components",
-    "\\StudentManagement\\StudentManagement\\Components\\Pages",
-    "\\StudentManagement\\StudentManagement\\Data",
+    "\\StudentManagement\\StudentManagement\\Components\\Layout",
     "\\StudentManagement\\StudentManagement\\Services"
   ],
-  "SelectedNode": "\\StudentManagement.sln",
+  "SelectedNode": "\\StudentManagement\\StudentManagement.Client\\Pages\\BookIssuance\\EditBookIssurance.razor",
   "PreviewInSolutionExplorer": false
 }
