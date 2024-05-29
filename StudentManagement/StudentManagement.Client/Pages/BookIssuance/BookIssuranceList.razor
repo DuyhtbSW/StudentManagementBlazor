@@ -27,7 +27,7 @@
                                                 <th>Id</th>
 
                                                 <th>Issuan Date </th>
-                                                <th>Return Date</th>
+                                                <th>Due Date</th>
 
                                                 <th>Class Name </th>
                                                 <th>Student Name</th>
@@ -43,7 +43,7 @@
                                                 <tr>
                                                     <td>@issue.Id</td>
                                                     <td>@issue.IssueDate</td>
-                                                    <td>@issue.ReturnDate</td>
+                                                    <td>@issue.DueDate</td>
 
                                                     <td>@issue.Class.Description</td>
                                                     <td>@issue.Student.FullName</td>
@@ -52,7 +52,7 @@
                                                         <a class="btn btn-success" href="/issue/edit/@issue.Id"> Edit </a>
                                                     </td>
                                                     <td>
-                                                        <a class="btn btn-secondary" href="/issue/edit/@issue.Id"> Return </a>
+                                                        <a class="btn btn-secondary" href="/return/edit/@issue.Id"> Return </a>
                                                     </td>
                                                 </tr>
                                             }

@@ -38,6 +38,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va0lzc3VhbmNlXEVkaXRCb29rSXNzdXJhbmNlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Admin/Desktop/.Net/StudentManagement/StudentManagementBlazor/StudentManagement/StudentManagement.Client/Pages/BookIssuance/ReturnBook.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va0lzc3VhbmNlXFJldHVybkJvb2sucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admin/Desktop/.Net/StudentManagement/StudentManagementBlazor/StudentManagement/StudentManagement.Client/Pages/BookIssuance/ReturnBookslist.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va0lzc3VhbmNlXFJldHVybkJvb2tzbGlzdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Admin/Desktop/.Net/StudentManagement/StudentManagementBlazor/StudentManagement/StudentManagement.Client/Pages/Book/AddBook.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va1xBZGRCb29rLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
