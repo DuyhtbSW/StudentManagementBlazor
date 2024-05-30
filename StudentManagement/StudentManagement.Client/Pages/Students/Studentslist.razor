@@ -3,7 +3,8 @@
 @inject NavigationManager navigation;
 @inject IJSRuntime JsRuntime
 @rendermode InteractiveServer
-
+@using Microsoft.AspNetCore.Authorization
+@attribute [Authorize]
 <div class="row">
     <div class="col-12">
         <div class="card">

@@ -4,6 +4,8 @@
 @using StudentManagement.Client.Services;
 @inject NavigationManager navigation;
 @inject IJSRuntime JsRuntime    
+@using Microsoft.AspNetCore.Authorization
+@attribute [Authorize]
 <h3>Add Country</h3>
 <hr />
 <div class="row">

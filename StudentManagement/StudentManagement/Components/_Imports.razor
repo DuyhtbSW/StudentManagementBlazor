@@ -9,4 +9,15 @@
 @using Microsoft.JSInterop
 @using StudentManagement
 @using StudentManagement.Client
+@using StudentManagement.Client.Repository
 @using StudentManagement.Components
+@inject IStudentRepository StudentService
+@inject ICountryRepository CountryService
+@inject ISystemCodeDetailRepository SystemCodeDetailService
+@inject ISystemCodeRepository SystemCodeService
+@inject IParentRepository ParentService
+@inject ITeacherRepository TeacherService
+@inject ISubjectRepository SubjectService
+@inject IBookRepository BookService
+@inject IDepartmentRepository DepartmentService
+@inject IBookIssuranceRepository IssuranceService 

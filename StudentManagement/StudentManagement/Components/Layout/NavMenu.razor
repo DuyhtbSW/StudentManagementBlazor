@@ -12,7 +12,13 @@
                 <img src="AdminLTE/dist/img/user2-160x160.jpg" class="img-circle elevation-2" alt="User Image">
             </div>
             <div class="info">
-                <a href="#" class="d-block">Bao Duy</a>
+                <AuthorizeView>
+                    <Authorized>
+                        <a href="#" class="d-block">@context.User.Identity?.Name</a>
+
+                    </Authorized>
+                </AuthorizeView>
+
             </div>
         </div>
         <nav class="mt-2">
@@ -28,7 +34,7 @@
                 </li>
                 <li class="nav-item">
 
-                    <a  class="nav-link">
+                    <a class="nav-link">
                         <i class="nav-icon fas fa-graduation-cap"></i>
                         <p>
                             Academic
@@ -69,14 +75,14 @@
                     </ul>
                 </li>
                 <li class="nav-item">
-                    <a  class="nav-link">
+                    <a class="nav-link">
                         <i class="nav-icon fas fa-book"></i>
                         <p>
                             Library
                             <i class="right fas fa-angle-left"></i>
                         </p>
                     </a>
-                 
+
                     <ul class="nav nav-treeview">
                         <li class="nav-item">
                             <a href="books-list" class="nav-link">
@@ -99,7 +105,7 @@
                     </ul>
                 </li>
                 <li class="nav-item">
-                    <a  class="nav-link">
+                    <a class="nav-link">
                         <i class="nav-icon fas fa-cogs"></i>
                         <p>
                             System Admin
@@ -127,6 +133,38 @@
                         </li>
                     </ul>
                 </li>
+                <AuthorizeView>
+                    <Authorized>
+                        <li class="nav-item">
+                            <NavLink href="Account/Manage" class="nav-link">
+                                <span class="nav-icon fas fa-user" aria-hidden="true"></span> @context.User.Identity?.Name
+                            </NavLink>
+                        </li>
+                        <li class="nav-item">
+                            <form action="Account/Logout" method="post">
+                                <AntiforgeryToken></AntiforgeryToken>
+                                <input type="hidden" name="ReturnUrl" value="@currentUrl" />
+                                <button type="submit" class="nav-link">
+                                    <span class="bi bi-arrow-bar-left-nav-menu" aria-hidden="true">  </span> Log out
+                                </button>
+                            </form>
+                        </li>
+                    </Authorized>
+                    <NotAuthorized>
+                        <li class="nav-item">
+                            <a href="Account/Login" class="nav-link">
+                                <i class="nav-icon fas fa-sign-in-alt"></i>
+                                <p>Login</p>
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="Account/Register" class="nav-link">
+                                <i class="nav-icon fas fa-user-plus"></i>
+                                <p>Register</p>
+                            </a>
+                        </li>
+                    </NotAuthorized>
+                </AuthorizeView>
             </ul>
         </nav>
 

@@ -2,6 +2,8 @@
 @using StudentManagement.Shared.Models
 @inject NavigationManager navigation;
 @inject IJSRuntime JsRuntime
+@using Microsoft.AspNetCore.Authorization
+@attribute [Authorize]
 <div class="row">
     <div class="col-12">
         <div class="card">

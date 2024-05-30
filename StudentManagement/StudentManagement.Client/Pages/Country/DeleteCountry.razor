@@ -2,7 +2,8 @@
 @using StudentManagement.Shared.Models
 @inject NavigationManager navigation;
 @rendermode InteractiveServer
-
+@using Microsoft.AspNetCore.Authorization
+@attribute [Authorize]
 @inject IJSRuntime JsRuntime
 <h3>Delete Country</h3>
 

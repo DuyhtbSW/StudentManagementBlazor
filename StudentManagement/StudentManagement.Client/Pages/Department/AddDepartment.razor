@@ -1,6 +1,8 @@
 ﻿@page "/add-department"
 @using StudentManagement.Shared.Models
 @inject NavigationManager navigation;
+@using Microsoft.AspNetCore.Authorization
+@attribute [Authorize]
 @rendermode InteractiveServer
 <div class="row">
     <div class="col-12">

@@ -6,6 +6,8 @@
 @using Microsoft.AspNetCore.Identity
 @using Microsoft.AspNetCore.WebUtilities
 @using StudentManagement.Data
+@using StudentManagement.Shared.Models
+@using StudentManagement.Services
 
 @inject UserManager<ApplicationUser> UserManager
 @inject IUserStore<ApplicationUser> UserStore
@@ -15,6 +17,8 @@
 @inject NavigationManager NavigationManager
 @inject IdentityRedirectManager RedirectManager
 
+@rendermode InteractiveAuto
+@inject NavigationManager navigation;
 <PageTitle>Register</PageTitle>
 
 <h1>Register</h1>
@@ -28,9 +32,47 @@
             <hr />
             <ValidationSummary class="text-danger" role="alert" />
             <div class="form-floating mb-3">
-                <InputText @bind-Value="Input.Email" class="form-control" autocomplete="username" aria-required="true" placeholder="name@example.com" />
-                <label for="email">Email</label>
+                <InputText @bind-Value="Input.FirstName" class="form-control" autocomplete="FirstName" aria-required="true" />
+                <label for="FirstName">First Name</label>
+                <ValidationMessage For="() => Input.FirstName" class="text-danger" />
+            </div>
+            <div class="form-floating mb-3">
+                <InputText @bind-Value="Input.MiddeName" class="form-control" autocomplete="MiddeName" aria-required="true" />
+                <label for="MiddeName">Middle Name</label>
+                <ValidationMessage For="() => Input.MiddeName" class="text-danger" />
+            </div>
+            <div class="form-floating mb-3">
+                <InputText @bind-Value="Input.LastName" class="form-control" autocomplete="LastName" aria-required="true" />
+                <label for="LastName">Last Name</label>
+                <ValidationMessage For="() => Input.LastName" class="text-danger" />
+            </div>
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label class="control-label"> Gender</label>
+                    <InputSelect for="GenderId" class="form-control" @bind-Value="@Input.GenderId">
+                        <option value="">Select Gender</option>
+                        @if (Gender != null && Gender.Any())
+                        {
+                            @foreach (var sex in Gender)
+                            {
+                                <option value="@sex.id">@sex.Description</option>
+                            }
+
+                        }
+                    </InputSelect>
+                    <ValidationMessage For="() => Input.GenderId" />
+
+                </div>
+            </div>
+            <div class="form-floating mb-3">
+                <InputText @bind-Value="Input.Email" class="form-control" autocomplete="Email" aria-required="true" />
+                <label for="Email">Email</label>
                 <ValidationMessage For="() => Input.Email" class="text-danger" />
+            </div>
+            <div class="form-floating mb-3">
+                <InputFile @bind-Value="Input.Photo" class="form-control" autocomplete="Photo" aria-required="true" />
+                <label for="Photo">Photo</label>
+                <ValidationMessage For="() => Input.Photo" class="text-danger" />
             </div>
             <div class="form-floating mb-3">
                 <InputText type="password" @bind-Value="Input.Password" class="form-control" autocomplete="new-password" aria-required="true" placeholder="password" />
@@ -59,7 +101,14 @@
 
     [SupplyParameterFromForm]
     private InputModel Input { get; set; } = new();
+    List<SystemCodeDetail> Gender = new List<SystemCodeDetail>();
 
+    protected override async Task OnInitializedAsync()
+    {
+
+        Gender = await SystemCodeDetailService.GetByCodeAsync("Gender");
+
+    }
     [SupplyParameterFromQuery]
     private string? ReturnUrl { get; set; }
 
@@ -72,7 +121,16 @@
         await UserStore.SetUserNameAsync(user, Input.Email, CancellationToken.None);
         var emailStore = GetEmailStore();
         await emailStore.SetEmailAsync(user, Input.Email, CancellationToken.None);
+        user.FirstName = Input.FirstName;
+        user.MiddeName = Input.MiddeName;
+        user.LastName = Input.LastName;
+        user.Photo = Input.Photo;
+        user.GenderId = Input.GenderId;
+        user.LastActivityDate = DateTime.Now;
+        user.IsActive = true;
         var result = await UserManager.CreateAsync(user, Input.Password);
+
+
 
         if (!result.Succeeded)
         {
@@ -130,6 +188,31 @@
         [EmailAddress]
         [Display(Name = "Email")]
         public string Email { get; set; } = "";
+
+
+        [Required]
+        [Display(Name = "First Name")]
+        public string FirstName { get; set; } = "";
+
+        [Required]
+        [Display(Name = "Middle Name")]
+        public string MiddeName { get; set; } = "";
+
+        [Required]
+        [Display(Name = "Last Name")]
+        public string LastName { get; set; } = "";
+
+
+        [Display(Name = "Photo")]
+        public string Photo { get; set; } = "";
+
+        [Required]
+        [Display(Name = "Gender")]
+        public int GenderId { get; set; } = 0;
+        public string FullName => $"{FirstName}  {MiddeName}{LastName}";
+        public bool IsActive { get; set; }
+        public DateTime LastActivityDate { get; set; } = DateTime.Now;
+        public DateTime? DeactivatedOn { get; set; }
 
         [Required]
         [StringLength(100, ErrorMessage = "The {0} must be at least {2} and at max {1} characters long.", MinimumLength = 6)]

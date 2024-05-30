@@ -2,7 +2,8 @@
 @using StudentManagement.Shared.Models
 @rendermode InteractiveAuto
 @inject NavigationManager navigation;
-
+@using Microsoft.AspNetCore.Authorization
+@attribute [Authorize]
 
 @inject IJSRuntime JsRuntime
 <h3>Add Parent</h3>

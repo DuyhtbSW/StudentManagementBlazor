@@ -1,7 +1,8 @@
 ﻿@page "/countries-list"
 @using StudentManagement.Shared.Models
 @rendermode InteractiveAuto
-
+@using Microsoft.AspNetCore.Authorization
+@attribute [Authorize]
 @inject IJSRuntime JsRuntime
 <div class="row">
     <div class="col-12">
