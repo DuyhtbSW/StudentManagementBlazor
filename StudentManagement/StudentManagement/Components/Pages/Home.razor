@@ -1,4 +1,10 @@
 ﻿@page "/"
+@using StudentManagement.Shared.Models
+@using System.Net.Http.Json
+@inject HttpClient Http
+@inject NavigationManager navigation
+@inject IJSRuntime JsRuntime
+@rendermode InteractiveServer
 @using Microsoft.AspNetCore.Authorization
 @attribute [Authorize]
 <div class="row">
@@ -6,14 +12,14 @@
         <!-- small box -->
         <div class="small-box bg-info">
             <div class="inner">
-                <h3>150</h3>
+                <h3>@studentCount</h3>
 
-                <p>New Students</p>
+                <p>All Students</p>
             </div>
             <div class="icon">
                 <i class="ion ion-bag"></i>
             </div>
-            <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
+            <a href="students-list" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
         </div>
     </div>
     <!-- ./col -->
@@ -36,14 +42,14 @@
         <!-- small box -->
         <div class="small-box bg-warning">
             <div class="inner">
-                <h3>44</h3>
+                <h3>@teacherCount</h3>
 
                 <p>Teachers</p>
             </div>
             <div class="icon">
                 <i class="ion ion-person-add"></i>
             </div>
-            <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
+            <a href="teachers-list" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
         </div>
     </div>
     <!-- ./col -->
@@ -566,3 +572,44 @@
     </section>
     <!-- right col -->
 </div>
+@code {
+    public List<Student> AllStudents { get; set; } = new();
+    public List<Teacher> AllTeachers { get; set; } = new();
+
+    // Property to store the count of all students
+    private int studentCount;
+    private int teacherCount;
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadAllStudents();
+        await LoadAllTeachers();
+    }
+
+    public async Task LoadAllStudents()
+    {
+        var students = await StudentService.GetAllStudentsAsync();
+        AllStudents.Clear();
+        if (students != null)
+        {
+            AllStudents.AddRange(students);
+            // Calculate and store the count of all students
+            studentCount = AllStudents.Count;
+        }
+      
+    }
+
+
+    public async Task LoadAllTeachers()
+    {
+        var data = await TeacherService.GetAllAsync();
+        AllTeachers.Clear();
+        if (data is not null)
+        {
+            AllTeachers.AddRange(data);
+            teacherCount = AllTeachers.Count;
+        }
+     
+    }
+
+    // Rest of the code remains the same...
+}

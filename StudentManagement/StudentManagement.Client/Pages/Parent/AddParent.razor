@@ -1,4 +1,4 @@
-﻿ @page "/add-parent"
+﻿@page "/add-parent"
 @using StudentManagement.Shared.Models
 @rendermode InteractiveAuto
 @inject NavigationManager navigation;
@@ -11,7 +11,6 @@
 <div class="row">
     <div class="col-md-12">
         <EditForm Model="parentobj" OnValidSubmit="CreateParent" FormName="addparent">
-
             <DataAnnotationsValidator></DataAnnotationsValidator>
             <ValidationSummary></ValidationSummary>
             <div class="col-md-12">
@@ -19,56 +18,49 @@
                     <div class="col-md-6">
                         <div class="form-group">
                             <label class="control-label"> First Name </label>
-                            <InputText for="FirstName" class="form-control" @bind-Value="@parentobj.FirstName"></InputText>
+                            <InputText id="FirstName" class="form-control" @bind-Value="parentobj.FirstName"></InputText>
                             <ValidationMessage For="() => parentobj.FirstName" />
-
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="form-group">
                             <label class="control-label"> Middle Name </label>
-                            <InputText for="MiddleName" class="form-control" @bind-Value="@parentobj.MiddleName"></InputText>
+                            <InputText id="MiddleName" class="form-control" @bind-Value="parentobj.MiddleName"></InputText>
                             <ValidationMessage For="() => parentobj.MiddleName" />
-
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="form-group">
                             <label class="control-label"> Last Name </label>
-                            <InputText for="LastName" class="form-control" @bind-Value="@parentobj.LastName"></InputText>
+                            <InputText id="LastName" class="form-control" @bind-Value="parentobj.LastName"></InputText>
                             <ValidationMessage For="() => parentobj.LastName" />
-
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="form-group">
                             <label class="control-label"> Email </label>
-                            <InputText for="Email" class="form-control" @bind-Value="@parentobj.EmailAddress"></InputText>
+                            <InputText id="EmailAddress" class="form-control" @bind-Value="parentobj.EmailAddress"></InputText>
                             <ValidationMessage For="() => parentobj.EmailAddress" />
-
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="form-group">
                             <label class="control-label"> Phone</label>
-                            <InputText for="Phone" class="form-control" @bind-Value="@parentobj.PhoneNumber"></InputText>
+                            <InputText id="PhoneNumber" class="form-control" @bind-Value="parentobj.PhoneNumber"></InputText>
                             <ValidationMessage For="() => parentobj.PhoneNumber" />
-
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="form-group">
                             <label class="control-label"> Address</label>
-                            <InputText for="Address" class="form-control" @bind-Value="@parentobj.Address"></InputText>
+                            <InputText id="Address" class="form-control" @bind-Value="parentobj.Address"></InputText>
                             <ValidationMessage For="() => parentobj.Address" />
-
                         </div>
                     </div>
-                 
                     <div class="col-md-6">
                         <div class="form-group">
                             <label class="control-label"> Gender</label>
-                            <InputSelect for="GenderId" class="form-control" @bind-Value="@parentobj.GenderId">
+                            <InputSelect id="GenderId" class="form-control" @bind-Value="parentobj.GenderId">
                                 <option value="">Select Gender</option>
                                 @if (Gender != null && Gender.Any())
                                 {
@@ -76,84 +68,77 @@
                                     {
                                         <option value="@sex.id">@sex.Description</option>
                                     }
-
                                 }
                             </InputSelect>
-                            <ValidationMessage For="() => parentobj.Gender" />
-
+                            <ValidationMessage For="() => parentobj.GenderId" />
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="form-group">
                             <label class="control-label"> Student</label>
-                            <InputSelect for="GenderId" class="form-control" @bind-Value="@parentobj.StudentId">
+                            <InputSelect id="StudentId" class="form-control" @bind-Value="parentobj.StudentId">
                                 <option value="">Select Student</option>
                                 @foreach (var student in Student)
                                 {
-
-                                    <option value="@student.Id"> @student.FullName</option>
-                                    
-
+                                    <option value="@student.Id">@student.FullName</option>
                                 }
                             </InputSelect>
                             <ValidationMessage For="() => parentobj.StudentId" />
-
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="form-group">
                             <label class="control-label"> Parent Type</label>
-                            <InputSelect for="ParentTypeId" class="form-control" @bind-Value="@parentobj.ParentTypeId">
+                            <InputSelect id="ParentTypeId" class="form-control" @bind-Value="parentobj.ParentTypeId">
                                 <option value="">Select Parent Type</option>
-                               
-                                    @foreach (var type in ParentType)
-                                    {
-                                        <option value="@type.id"> @type.Description</option>
-                                    }
-
-                                
+                                @foreach (var type in ParentType)
+                                {
+                                    <option value="@type.id">@type.Description</option>
+                                }
                             </InputSelect>
                             <ValidationMessage For="() => parentobj.ParentTypeId" />
-
                         </div>
                     </div>
                     <div class="col-md-6">
                         <div class="form-group">
                             <label class="control-label">Date of Birth</label>
-                            <InputDate for="DOB" class="form-control" @bind-Value="@parentobj.DOB" />
-                            <ValidationMessage For="()=>parentobj.DOB" />
+                            <InputDate id="DOB" class="form-control" @bind-Value="parentobj.DOB" />
+                            <ValidationMessage For="() => parentobj.DOB" />
                         </div>
                     </div>
-
                 </div>
                 <div class="form-group mt-4">
-                    <button type="submit" class="btn btn-primary"> Save Student</button>
-                    <button type="submit" @onclick="()=>Cancel()" class="btn btn-danger"> Cancel</button>
+                    <button type="submit" class="btn btn-primary"> Save Parent</button>
+                    <button type="button" @onclick="Cancel" class="btn btn-danger"> Cancel</button>
                 </div>
             </div>
         </EditForm>
     </div>
 </div>
+
 @code {
     [SupplyParameterFromForm]
     public Parent parentobj { get; set; } = new();
+
     public List<SystemCodeDetail> ParentType = new List<SystemCodeDetail>();
-    List<SystemCodeDetail> Gender = new List<SystemCodeDetail>();
-    List<Student> Student = new List<Student>();
+    public List<SystemCodeDetail> Gender = new List<SystemCodeDetail>();
+    public List<Student> Student = new List<Student>();
+
     protected override async Task OnInitializedAsync()
     {
         ParentType = await SystemCodeDetailService.GetByCodeAsync("ParentType");
         Gender = await SystemCodeDetailService.GetByCodeAsync("Gender");
         Student = await StudentService.GetAllStudentsAsync();
     }
+
     protected async Task CreateParent()
     {
         var result = await ParentService.AddAsync(parentobj);
         navigation.NavigateTo("/parents-list");
     }
+
     public void Cancel()
     {
         navigation.NavigateTo("/parents-list");
     }
 }
- 

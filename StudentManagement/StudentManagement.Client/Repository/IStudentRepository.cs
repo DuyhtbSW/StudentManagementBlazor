@@ -14,5 +14,6 @@ namespace StudentManagement.Client.Repository
         Task<List<Student>> GetAllStudentsAsync();
 
         Task<Student> GetStudentByIdAsync(int studentId);
+       
     }
 }

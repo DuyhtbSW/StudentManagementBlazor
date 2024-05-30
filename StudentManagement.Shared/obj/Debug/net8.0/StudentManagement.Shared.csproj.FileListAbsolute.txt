@@ -10,3 +10,4 @@ C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentMan
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement.Shared\obj\Debug\net8.0\refint\StudentManagement.Shared.dll
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement.Shared\obj\Debug\net8.0\StudentManagement.Shared.pdb
 C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement.Shared\obj\Debug\net8.0\ref\StudentManagement.Shared.dll
+C:\Users\Admin\Desktop\.Net\StudentManagement\StudentManagementBlazor\StudentManagement.Shared\obj\Debug\net8.0\StudentManagement.Shared.csproj.AssemblyReference.cache

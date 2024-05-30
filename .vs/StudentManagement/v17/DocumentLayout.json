@@ -3,111 +3,147 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C88B8728-5919-4412-A298-113FB937781C}|StudentManagement\\StudentManagement\\StudentManagement.csproj|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\studentmanagement\\studentmanagement\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C88B8728-5919-4412-A298-113FB937781C}|StudentManagement\\StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\studentmanagement\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\studentmanagement\\studentmanagement.client\\pages\\teachers\\teacherslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\pages\\teachers\\teacherslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88B8728-5919-4412-A298-113FB937781C}|StudentManagement\\StudentManagement\\StudentManagement.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement\\services\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88B8728-5919-4412-A298-113FB937781C}|StudentManagement\\StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\studentmanagement\\services\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement.client\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88B8728-5919-4412-A298-113FB937781C}|StudentManagement\\StudentManagement\\StudentManagement.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement\\controller\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88B8728-5919-4412-A298-113FB937781C}|StudentManagement\\StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\studentmanagement\\controller\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\studentmanagement\\studentmanagement.client\\pages\\students\\studentslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\pages\\students\\studentslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A5EF87-708D-494E-BD71-D4C6B686D4C6}|StudentManagement.Shared\\StudentManagement.Shared.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement.shared\\models\\daterangeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A5EF87-708D-494E-BD71-D4C6B686D4C6}|StudentManagement.Shared\\StudentManagement.Shared.csproj|solutionrelative:studentmanagement.shared\\models\\daterangeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\studentmanagement\\studentmanagement.client\\pages\\parent\\addparent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\pages\\parent\\addparent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\studentmanagement\\studentmanagement.client\\pages\\students\\editstudent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\pages\\students\\editstudent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A5EF87-708D-494E-BD71-D4C6B686D4C6}|StudentManagement.Shared\\StudentManagement.Shared.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement.shared\\models\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A5EF87-708D-494E-BD71-D4C6B686D4C6}|StudentManagement.Shared\\StudentManagement.Shared.csproj|solutionrelative:studentmanagement.shared\\models\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\studentmanagement\\studentmanagement.client\\pages\\subjects\\addsubject.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\pages\\subjects\\addsubject.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\studentmanagement\\studentmanagement.client\\pages\\teachers\\addteacher.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\pages\\teachers\\addteacher.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A5EF87-708D-494E-BD71-D4C6B686D4C6}|StudentManagement.Shared\\StudentManagement.Shared.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement.shared\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A5EF87-708D-494E-BD71-D4C6B686D4C6}|StudentManagement.Shared\\StudentManagement.Shared.csproj|solutionrelative:studentmanagement.shared\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\studentmanagement\\studentmanagement.client\\pages\\students\\addnewstudent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\pages\\students\\addnewstudent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A5EF87-708D-494E-BD71-D4C6B686D4C6}|StudentManagement.Shared\\StudentManagement.Shared.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement.shared\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A5EF87-708D-494E-BD71-D4C6B686D4C6}|StudentManagement.Shared\\StudentManagement.Shared.csproj|solutionrelative:studentmanagement.shared\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\studentmanagement\\studentmanagement.client\\pages\\book\\addbook.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\pages\\book\\addbook.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C88B8728-5919-4412-A298-113FB937781C}|StudentManagement\\StudentManagement\\StudentManagement.csproj|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\studentmanagement\\studentmanagement\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C88B8728-5919-4412-A298-113FB937781C}|StudentManagement\\StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\studentmanagement\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C88B8728-5919-4412-A298-113FB937781C}|StudentManagement\\StudentManagement\\StudentManagement.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C88B8728-5919-4412-A298-113FB937781C}|StudentManagement\\StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\studentmanagement\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C88B8728-5919-4412-A298-113FB937781C}|StudentManagement\\StudentManagement\\StudentManagement.csproj|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\studentmanagement\\studentmanagement\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88B8728-5919-4412-A298-113FB937781C}|StudentManagement\\StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\studentmanagement\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C88B8728-5919-4412-A298-113FB937781C}|StudentManagement\\StudentManagement\\StudentManagement.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C88B8728-5919-4412-A298-113FB937781C}|StudentManagement\\StudentManagement\\StudentManagement.csproj|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\studentmanagement\\studentmanagement\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C88B8728-5919-4412-A298-113FB937781C}|StudentManagement\\StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\studentmanagement\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement.client\\pages\\teachers\\teacherslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\pages\\teachers\\teacherslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement.client\\pages\\auth.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\studentmanagement\\studentmanagement.client\\pages\\auth.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\pages\\auth.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement.client\\pages\\teachers\\editteacher.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\studentmanagement\\studentmanagement.client\\pages\\teachers\\editteacher.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\pages\\teachers\\editteacher.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement.client\\pages\\teachers\\addteacher.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\pages\\teachers\\addteacher.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement.client\\pages\\systemcodes\\systemcodeslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\studentmanagement\\studentmanagement.client\\pages\\systemcodes\\systemcodeslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\pages\\systemcodes\\systemcodeslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement.client\\pages\\systemcodes\\editsystemcodes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\studentmanagement\\studentmanagement.client\\pages\\systemcodes\\editsystemcodes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\pages\\systemcodes\\editsystemcodes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement.client\\pages\\systemcodes\\addsystemcodes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\studentmanagement\\studentmanagement.client\\pages\\systemcodes\\addsystemcodes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\pages\\systemcodes\\addsystemcodes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement.client\\pages\\systemcodedetails\\systemcodedetailslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\studentmanagement\\studentmanagement.client\\pages\\systemcodedetails\\systemcodedetailslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\pages\\systemcodedetails\\systemcodedetailslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement.client\\pages\\systemcodedetails\\addsystemcodedetail.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\studentmanagement\\studentmanagement.client\\pages\\systemcodedetails\\addsystemcodedetail.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\pages\\systemcodedetails\\addsystemcodedetail.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement.client\\pages\\subjects\\subjectslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\studentmanagement\\studentmanagement.client\\pages\\subjects\\subjectslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\pages\\subjects\\subjectslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement.client\\pages\\subjects\\editsubject.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\studentmanagement\\studentmanagement.client\\pages\\subjects\\editsubject.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\pages\\subjects\\editsubject.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement.client\\pages\\subjects\\addsubject.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\pages\\subjects\\addsubject.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement.client\\pages\\students\\studentslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\pages\\students\\studentslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement.client\\pages\\students\\editstudent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\pages\\students\\editstudent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement.client\\pages\\students\\deletestudent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\studentmanagement\\studentmanagement.client\\pages\\students\\deletestudent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\pages\\students\\deletestudent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement.client\\pages\\students\\addnewstudent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\pages\\students\\addnewstudent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement.client\\pages\\parent\\parentslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\studentmanagement\\studentmanagement.client\\pages\\parent\\parentslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\pages\\parent\\parentslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement.client\\pages\\parent\\addparent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\pages\\parent\\addparent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement.client\\pages\\department\\editdepartment.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\studentmanagement\\studentmanagement.client\\pages\\department\\editdepartment.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\pages\\department\\editdepartment.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement.client\\pages\\department\\departmentslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\studentmanagement\\studentmanagement.client\\pages\\department\\departmentslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\pages\\department\\departmentslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement.client\\pages\\department\\adddepartment.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\studentmanagement\\studentmanagement.client\\pages\\department\\adddepartment.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\pages\\department\\adddepartment.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement.client\\pages\\country\\editcountry.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\studentmanagement\\studentmanagement.client\\pages\\country\\editcountry.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\pages\\country\\editcountry.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement.client\\pages\\country\\deletecountry.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\studentmanagement\\studentmanagement.client\\pages\\country\\deletecountry.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\pages\\country\\deletecountry.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement.client\\pages\\country\\countrieslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\studentmanagement\\studentmanagement.client\\pages\\country\\countrieslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\pages\\country\\countrieslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -123,47 +159,39 @@
       "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\pages\\bookissuance\\returnbook.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement.client\\pages\\bookissuance\\editbookissurance.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\studentmanagement\\studentmanagement.client\\pages\\bookissuance\\editbookissurance.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\pages\\bookissuance\\editbookissurance.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement.client\\pages\\bookissuance\\bookissurancelist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\studentmanagement\\studentmanagement.client\\pages\\bookissuance\\bookissurancelist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\pages\\bookissuance\\bookissurancelist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement.client\\pages\\bookissuance\\addnewbookissurance.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\studentmanagement\\studentmanagement.client\\pages\\bookissuance\\addnewbookissurance.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\pages\\bookissuance\\addnewbookissurance.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement.client\\pages\\book\\editbook.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\studentmanagement\\studentmanagement.client\\pages\\book\\editbook.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\pages\\book\\editbook.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement.client\\pages\\book\\bookslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\studentmanagement\\studentmanagement.client\\pages\\book\\bookslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\pages\\book\\bookslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\studentmanagement\\studentmanagement.client\\pages\\book\\addbook.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\pages\\book\\addbook.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C88B8728-5919-4412-A298-113FB937781C}|StudentManagement\\StudentManagement\\StudentManagement.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement\\components\\account\\pages\\lockout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C88B8728-5919-4412-A298-113FB937781C}|StudentManagement\\StudentManagement\\StudentManagement.csproj|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\studentmanagement\\studentmanagement\\components\\account\\pages\\lockout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C88B8728-5919-4412-A298-113FB937781C}|StudentManagement\\StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\studentmanagement\\components\\account\\pages\\lockout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C88B8728-5919-4412-A298-113FB937781C}|StudentManagement\\StudentManagement\\StudentManagement.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement\\components\\account\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C88B8728-5919-4412-A298-113FB937781C}|StudentManagement\\StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\studentmanagement\\components\\account\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C88B8728-5919-4412-A298-113FB937781C}|StudentManagement\\StudentManagement\\StudentManagement.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement\\components\\account\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C88B8728-5919-4412-A298-113FB937781C}|StudentManagement\\StudentManagement\\StudentManagement.csproj|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\studentmanagement\\studentmanagement\\components\\account\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C88B8728-5919-4412-A298-113FB937781C}|StudentManagement\\StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\studentmanagement\\components\\account\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C88B8728-5919-4412-A298-113FB937781C}|StudentManagement\\StudentManagement\\StudentManagement.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C88B8728-5919-4412-A298-113FB937781C}|StudentManagement\\StudentManagement\\StudentManagement.csproj|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\studentmanagement\\studentmanagement\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C88B8728-5919-4412-A298-113FB937781C}|StudentManagement\\StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\studentmanagement\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C88B8728-5919-4412-A298-113FB937781C}|StudentManagement\\StudentManagement\\StudentManagement.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C88B8728-5919-4412-A298-113FB937781C}|StudentManagement\\StudentManagement\\StudentManagement.csproj|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\studentmanagement\\studentmanagement\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C88B8728-5919-4412-A298-113FB937781C}|StudentManagement\\StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\studentmanagement\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -171,11 +199,11 @@
       "RelativeMoniker": "D:0:0:{C88B8728-5919-4412-A298-113FB937781C}|StudentManagement\\StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\studentmanagement\\studentmanagement.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\studentmanagement\\studentmanagement.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -187,20 +215,12 @@
       "RelativeMoniker": "D:0:0:{C88B8728-5919-4412-A298-113FB937781C}|StudentManagement\\StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\studentmanagement\\data\\aplicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C88B8728-5919-4412-A298-113FB937781C}|StudentManagement\\StudentManagement\\StudentManagement.csproj|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\studentmanagement\\studentmanagement\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C88B8728-5919-4412-A298-113FB937781C}|StudentManagement\\StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\studentmanagement\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C88B8728-5919-4412-A298-113FB937781C}|StudentManagement\\StudentManagement\\StudentManagement.csproj|c:\\users\\admin\\desktop\\.net\\studentmanagement\\studentmanagementblazor\\studentmanagement\\studentmanagement\\studentmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{C88B8728-5919-4412-A298-113FB937781C}|StudentManagement\\StudentManagement\\StudentManagement.csproj|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\studentmanagement\\studentmanagement\\studentmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{C88B8728-5919-4412-A298-113FB937781C}|StudentManagement\\StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\studentmanagement\\studentmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\studentmanagement\\studentmanagement.client\\persistentauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2AC4341-2DB7-498C-BE52-86F05746B42C}|StudentManagement\\StudentManagement.Client\\StudentManagement.Client.csproj|solutionrelative:studentmanagement\\studentmanagement.client\\persistentauthenticationstateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87A5EF87-708D-494E-BD71-D4C6B686D4C6}|StudentManagement.Shared\\StudentManagement.Shared.csproj|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\studentmanagement.shared\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87A5EF87-708D-494E-BD71-D4C6B686D4C6}|StudentManagement.Shared\\StudentManagement.Shared.csproj|solutionrelative:studentmanagement.shared\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C88B8728-5919-4412-A298-113FB937781C}|StudentManagement\\StudentManagement\\StudentManagement.csproj|C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\studentmanagement\\studentmanagement\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -214,8 +234,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "StudentManagement\\StudentManagement\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAADoCAAAAAAAAAAAAAEMCAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T04:51:53.045Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -242,215 +276,150 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SystemCodesList.razor",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\SystemCodes\\SystemCodesList.razor",
-              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\SystemCodes\\SystemCodesList.razor",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\SystemCodes\\SystemCodesList.razor",
-              "RelativeToolTip": "StudentManagement\\StudentManagement.Client\\Pages\\SystemCodes\\SystemCodesList.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-30T04:50:56.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "EditSystemCodes.razor",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\SystemCodes\\EditSystemCodes.razor",
-              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\SystemCodes\\EditSystemCodes.razor",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\SystemCodes\\EditSystemCodes.razor",
-              "RelativeToolTip": "StudentManagement\\StudentManagement.Client\\Pages\\SystemCodes\\EditSystemCodes.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-30T04:50:54.912Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AddSystemCodes.razor",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\SystemCodes\\AddSystemCodes.razor",
-              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\SystemCodes\\AddSystemCodes.razor",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\SystemCodes\\AddSystemCodes.razor",
-              "RelativeToolTip": "StudentManagement\\StudentManagement.Client\\Pages\\SystemCodes\\AddSystemCodes.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-30T04:50:51.813Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement\\Components\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement\\Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement\\Components\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "StudentManagement\\StudentManagement\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-29T13:46:01.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement\\Components\\Layout\\MainLayout.razor",
-              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement\\Components\\Layout\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement\\Components\\Layout\\MainLayout.razor",
-              "RelativeToolTip": "StudentManagement\\StudentManagement\\Components\\Layout\\MainLayout.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-30T04:44:53.508Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement\\Components\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement\\Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "StudentManagement\\StudentManagement\\Components\\Pages\\Home.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-30T04:51:53.045Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AddTeacher.razor",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Teachers\\AddTeacher.razor",
-              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\Teachers\\AddTeacher.razor",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Teachers\\AddTeacher.razor",
-              "RelativeToolTip": "StudentManagement\\StudentManagement.Client\\Pages\\Teachers\\AddTeacher.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-30T04:50:59.358Z",
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement\\Services\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement\\Services\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement\\Services\\StudentRepository.cs",
+              "RelativeToolTip": "StudentManagement\\StudentManagement\\Services\\StudentRepository.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAwwDEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:17:52.394Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "TeachersList.razor",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Teachers\\TeachersList.razor",
-              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\Teachers\\TeachersList.razor",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Teachers\\TeachersList.razor",
-              "RelativeToolTip": "StudentManagement\\StudentManagement.Client\\Pages\\Teachers\\TeachersList.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-30T04:51:07.023Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EditTeacher.razor",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Teachers\\EditTeacher.razor",
-              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\Teachers\\EditTeacher.razor",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Teachers\\EditTeacher.razor",
-              "RelativeToolTip": "StudentManagement\\StudentManagement.Client\\Pages\\Teachers\\EditTeacher.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-30T04:51:04.117Z",
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Repository\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Repository\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Repository\\IStudentRepository.cs",
+              "RelativeToolTip": "StudentManagement\\StudentManagement.Client\\Repository\\IStudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:17:36.426Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Auth.razor",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Auth.razor",
-              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\Auth.razor",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Auth.razor",
-              "RelativeToolTip": "StudentManagement\\StudentManagement.Client\\Pages\\Auth.razor",
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement\\Controller\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement\\Controller\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement\\Controller\\StudentController.cs",
+              "RelativeToolTip": "StudentManagement\\StudentManagement\\Controller\\StudentController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAADwvzUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:17:13.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Parent.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement.Shared\\Models\\Parent.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Shared\\Models\\Parent.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement.Shared\\Models\\Parent.cs",
+              "RelativeToolTip": "StudentManagement.Shared\\Models\\Parent.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAqwC4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:04:19.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DateRangeAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement.Shared\\Models\\DateRangeAttribute.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Shared\\Models\\DateRangeAttribute.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement.Shared\\Models\\DateRangeAttribute.cs",
+              "RelativeToolTip": "StudentManagement.Shared\\Models\\DateRangeAttribute.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-30T04:51:06.494Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:01:02.492Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SystemCodeDetailsList.razor",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\SystemCodeDetails\\SystemCodeDetailsList.razor",
-              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\SystemCodeDetails\\SystemCodeDetailsList.razor",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\SystemCodeDetails\\SystemCodeDetailsList.razor",
-              "RelativeToolTip": "StudentManagement\\StudentManagement.Client\\Pages\\SystemCodeDetails\\SystemCodeDetailsList.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-30T04:50:47.766Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AddSystemCodeDetail.razor",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\SystemCodeDetails\\AddSystemCodeDetail.razor",
-              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\SystemCodeDetails\\AddSystemCodeDetail.razor",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\SystemCodeDetails\\AddSystemCodeDetail.razor",
-              "RelativeToolTip": "StudentManagement\\StudentManagement.Client\\Pages\\SystemCodeDetails\\AddSystemCodeDetail.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-30T04:50:46.056Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SubjectsList.razor",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Subjects\\SubjectsList.razor",
-              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\Subjects\\SubjectsList.razor",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Subjects\\SubjectsList.razor",
-              "RelativeToolTip": "StudentManagement\\StudentManagement.Client\\Pages\\Subjects\\SubjectsList.razor",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-30T04:50:42.559Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "EditSubject.razor",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Subjects\\EditSubject.razor",
-              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\Subjects\\EditSubject.razor",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Subjects\\EditSubject.razor",
-              "RelativeToolTip": "StudentManagement\\StudentManagement.Client\\Pages\\Subjects\\EditSubject.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-30T04:50:40.464Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AddSubject.razor",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Subjects\\AddSubject.razor",
-              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\Subjects\\AddSubject.razor",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Subjects\\AddSubject.razor",
-              "RelativeToolTip": "StudentManagement\\StudentManagement.Client\\Pages\\Subjects\\AddSubject.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-30T04:50:37.929Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 5,
               "Title": "Studentslist.razor",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Students\\Studentslist.razor",
               "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\Students\\Studentslist.razor",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Students\\Studentslist.razor",
               "RelativeToolTip": "StudentManagement\\StudentManagement.Client\\Pages\\Students\\Studentslist.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAAALsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-30T04:50:35.072Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 1,
+              "Title": "TeachersList.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Teachers\\TeachersList.razor",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\Teachers\\TeachersList.razor",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Teachers\\TeachersList.razor",
+              "RelativeToolTip": "StudentManagement\\StudentManagement.Client\\Pages\\Teachers\\TeachersList.razor",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAAAFQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T04:51:07.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement.Shared\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Shared\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement.Shared\\Models\\Teacher.cs",
+              "RelativeToolTip": "StudentManagement.Shared\\Models\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T06:03:17.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement.Shared\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Shared\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement.Shared\\Models\\Student.cs",
+              "RelativeToolTip": "StudentManagement.Shared\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T05:55:25.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddTeacher.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Teachers\\AddTeacher.razor",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\Teachers\\AddTeacher.razor",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Teachers\\AddTeacher.razor",
+              "RelativeToolTip": "StudentManagement\\StudentManagement.Client\\Pages\\Teachers\\AddTeacher.razor",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAUwKkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T04:50:59.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddParent.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Parent\\AddParent.razor",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\Parent\\AddParent.razor",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Parent\\AddParent.razor",
+              "RelativeToolTip": "StudentManagement\\StudentManagement.Client\\Pages\\Parent\\AddParent.razor",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAUwJAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T04:50:19.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "EditStudent.razor",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Students\\EditStudent.razor",
               "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\Students\\EditStudent.razor",
@@ -463,7 +432,202 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddBook.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Book\\AddBook.razor",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\Book\\AddBook.razor",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Book\\AddBook.razor",
+              "RelativeToolTip": "StudentManagement\\StudentManagement.Client\\Pages\\Book\\AddBook.razor",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T04:30:20.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddSubject.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Subjects\\AddSubject.razor",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\Subjects\\AddSubject.razor",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Subjects\\AddSubject.razor",
+              "RelativeToolTip": "StudentManagement\\StudentManagement.Client\\Pages\\Subjects\\AddSubject.razor",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T04:50:37.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "StudentManagement\\StudentManagement\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-29T13:46:01.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 17,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement\\Data\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "StudentManagement\\StudentManagement\\Data\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T14:44:20.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddNewStudent.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Students\\AddNewStudent.razor",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\Students\\AddNewStudent.razor",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Students\\AddNewStudent.razor",
+              "RelativeToolTip": "StudentManagement\\StudentManagement.Client\\Pages\\Students\\AddNewStudent.razor",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAHAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T04:50:26.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EditSystemCodes.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\SystemCodes\\EditSystemCodes.razor",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\SystemCodes\\EditSystemCodes.razor",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\SystemCodes\\EditSystemCodes.razor",
+              "RelativeToolTip": "StudentManagement\\StudentManagement.Client\\Pages\\SystemCodes\\EditSystemCodes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T04:50:54.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddSystemCodes.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\SystemCodes\\AddSystemCodes.razor",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\SystemCodes\\AddSystemCodes.razor",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\SystemCodes\\AddSystemCodes.razor",
+              "RelativeToolTip": "StudentManagement\\StudentManagement.Client\\Pages\\SystemCodes\\AddSystemCodes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T04:50:51.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "StudentManagement\\StudentManagement\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T04:44:53.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SystemCodesList.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\SystemCodes\\SystemCodesList.razor",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\SystemCodes\\SystemCodesList.razor",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\SystemCodes\\SystemCodesList.razor",
+              "RelativeToolTip": "StudentManagement\\StudentManagement.Client\\Pages\\SystemCodes\\SystemCodesList.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T04:50:56.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EditTeacher.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Teachers\\EditTeacher.razor",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\Teachers\\EditTeacher.razor",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Teachers\\EditTeacher.razor",
+              "RelativeToolTip": "StudentManagement\\StudentManagement.Client\\Pages\\Teachers\\EditTeacher.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T04:51:04.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Auth.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Auth.razor",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\Auth.razor",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Auth.razor",
+              "RelativeToolTip": "StudentManagement\\StudentManagement.Client\\Pages\\Auth.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T04:51:06.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SystemCodeDetailsList.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\SystemCodeDetails\\SystemCodeDetailsList.razor",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\SystemCodeDetails\\SystemCodeDetailsList.razor",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\SystemCodeDetails\\SystemCodeDetailsList.razor",
+              "RelativeToolTip": "StudentManagement\\StudentManagement.Client\\Pages\\SystemCodeDetails\\SystemCodeDetailsList.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T04:50:47.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AddSystemCodeDetail.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\SystemCodeDetails\\AddSystemCodeDetail.razor",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\SystemCodeDetails\\AddSystemCodeDetail.razor",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\SystemCodeDetails\\AddSystemCodeDetail.razor",
+              "RelativeToolTip": "StudentManagement\\StudentManagement.Client\\Pages\\SystemCodeDetails\\AddSystemCodeDetail.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T04:50:46.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SubjectsList.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Subjects\\SubjectsList.razor",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\Subjects\\SubjectsList.razor",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Subjects\\SubjectsList.razor",
+              "RelativeToolTip": "StudentManagement\\StudentManagement.Client\\Pages\\Subjects\\SubjectsList.razor",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T04:50:42.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EditSubject.razor",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Subjects\\EditSubject.razor",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\Subjects\\EditSubject.razor",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Subjects\\EditSubject.razor",
+              "RelativeToolTip": "StudentManagement\\StudentManagement.Client\\Pages\\Subjects\\EditSubject.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T04:50:40.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "DeleteStudent.razor",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Students\\DeleteStudent.razor",
               "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\Students\\DeleteStudent.razor",
@@ -476,20 +640,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "AddNewStudent.razor",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Students\\AddNewStudent.razor",
-              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\Students\\AddNewStudent.razor",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Students\\AddNewStudent.razor",
-              "RelativeToolTip": "StudentManagement\\StudentManagement.Client\\Pages\\Students\\AddNewStudent.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-30T04:50:26.128Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 29,
               "Title": "Parentslist.razor",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Parent\\Parentslist.razor",
               "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\Parent\\Parentslist.razor",
@@ -502,20 +653,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "AddParent.razor",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Parent\\AddParent.razor",
-              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\Parent\\AddParent.razor",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Parent\\AddParent.razor",
-              "RelativeToolTip": "StudentManagement\\StudentManagement.Client\\Pages\\Parent\\AddParent.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-30T04:50:19.871Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 30,
               "Title": "EditDepartment.razor",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Department\\EditDepartment.razor",
               "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\Department\\EditDepartment.razor",
@@ -528,7 +666,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 31,
               "Title": "DepartmentsList.razor",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Department\\DepartmentsList.razor",
               "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\Department\\DepartmentsList.razor",
@@ -541,7 +679,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 32,
               "Title": "AddDepartment.razor",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Department\\AddDepartment.razor",
               "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\Department\\AddDepartment.razor",
@@ -554,7 +692,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 33,
               "Title": "EditCountry.razor",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Country\\EditCountry.razor",
               "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\Country\\EditCountry.razor",
@@ -567,7 +705,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 34,
               "Title": "DeleteCountry.razor",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Country\\DeleteCountry.razor",
               "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\Country\\DeleteCountry.razor",
@@ -580,7 +718,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 35,
               "Title": "CountriesList.razor",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Country\\CountriesList.razor",
               "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\Country\\CountriesList.razor",
@@ -593,7 +731,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 39,
               "Title": "EditBookIssurance.razor",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\BookIssuance\\EditBookIssurance.razor",
               "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\BookIssuance\\EditBookIssurance.razor",
@@ -606,7 +744,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 40,
               "Title": "BookIssuranceList.razor",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\BookIssuance\\BookIssuranceList.razor",
               "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\BookIssuance\\BookIssuranceList.razor",
@@ -619,7 +757,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 42,
               "Title": "EditBook.razor",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Book\\EditBook.razor",
               "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\Book\\EditBook.razor",
@@ -632,7 +770,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 41,
               "Title": "AddNewBookIssurance.razor",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\BookIssuance\\AddNewBookIssurance.razor",
               "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\BookIssuance\\AddNewBookIssurance.razor",
@@ -645,7 +783,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 38,
               "Title": "ReturnBook.razor",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\BookIssuance\\ReturnBook.razor",
               "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\BookIssuance\\ReturnBook.razor",
@@ -658,7 +796,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 37,
               "Title": "ReturnBookslist.razor",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\BookIssuance\\ReturnBookslist.razor",
               "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\BookIssuance\\ReturnBookslist.razor",
@@ -671,7 +809,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 36,
               "Title": "AddCountry.razor",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Country\\AddCountry.razor",
               "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\Country\\AddCountry.razor",
@@ -684,7 +822,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 43,
               "Title": "BooksList.razor",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Book\\BooksList.razor",
               "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\Book\\BooksList.razor",
@@ -697,7 +835,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 44,
               "Title": "Lockout.razor",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement\\Components\\Account\\Pages\\Lockout.razor",
               "RelativeDocumentMoniker": "StudentManagement\\StudentManagement\\Components\\Account\\Pages\\Lockout.razor",
@@ -710,7 +848,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 46,
               "Title": "App.razor",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement\\Components\\App.razor",
               "RelativeDocumentMoniker": "StudentManagement\\StudentManagement\\Components\\App.razor",
@@ -723,7 +861,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 47,
               "Title": "_Imports.razor",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement\\Components\\_Imports.razor",
               "RelativeDocumentMoniker": "StudentManagement\\StudentManagement\\Components\\_Imports.razor",
@@ -736,7 +874,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 49,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Program.cs",
               "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Program.cs",
@@ -749,7 +887,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 50,
               "Title": "_Imports.razor",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\_Imports.razor",
               "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\_Imports.razor",
@@ -762,20 +900,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "AddBook.razor",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Book\\AddBook.razor",
-              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\Pages\\Book\\AddBook.razor",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\Pages\\Book\\AddBook.razor",
-              "RelativeToolTip": "StudentManagement\\StudentManagement.Client\\Pages\\Book\\AddBook.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-30T04:30:20.179Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 45,
               "Title": "Login.razor",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement\\Components\\Account\\Pages\\Login.razor",
               "RelativeDocumentMoniker": "StudentManagement\\StudentManagement\\Components\\Account\\Pages\\Login.razor",
@@ -788,20 +913,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "Register.razor",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement\\Components\\Account\\Pages\\Register.razor",
-              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement\\Components\\Account\\Pages\\Register.razor",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement\\Components\\Account\\Pages\\Register.razor",
-              "RelativeToolTip": "StudentManagement\\StudentManagement\\Components\\Account\\Pages\\Register.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-30T04:46:18.609Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 52,
               "Title": "AplicationRole.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement\\Data\\AplicationRole.cs",
               "RelativeDocumentMoniker": "StudentManagement\\StudentManagement\\Data\\AplicationRole.cs",
@@ -814,20 +926,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement\\Data\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement\\Data\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement\\Data\\ApplicationUser.cs",
-              "RelativeToolTip": "StudentManagement\\StudentManagement\\Data\\ApplicationUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T14:44:20.703Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 48,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement\\Program.cs",
               "RelativeDocumentMoniker": "StudentManagement\\StudentManagement\\Program.cs",
@@ -840,7 +939,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 53,
               "Title": "StudentManagement.csproj",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement\\StudentManagement.csproj",
               "RelativeDocumentMoniker": "StudentManagement\\StudentManagement\\StudentManagement.csproj",
@@ -853,19 +952,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement.Shared\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "StudentManagement.Shared\\Models\\Book.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement.Shared\\Models\\Book.cs",
-              "RelativeToolTip": "StudentManagement.Shared\\Models\\Book.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T04:30:03.182Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 51,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "StudentManagement\\StudentManagement\\Data\\ApplicationDbContext.cs",
@@ -878,7 +965,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 54,
               "Title": "PersistentAuthenticationStateProvider.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement.Client\\PersistentAuthenticationStateProvider.cs",
               "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.Client\\PersistentAuthenticationStateProvider.cs",
@@ -886,11 +973,12 @@
               "RelativeToolTip": "StudentManagement\\StudentManagement.Client\\PersistentAuthenticationStateProvider.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T04:31:58.258Z"
+              "WhenOpened": "2024-05-30T04:31:58.258Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 55,
               "Title": "ApplicationDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\.Net\\StudentManagement\\StudentManagementBlazor\\StudentManagement\\StudentManagement\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "StudentManagement\\StudentManagement\\Migrations\\ApplicationDbContextModelSnapshot.cs",
@@ -898,7 +986,8 @@
               "RelativeToolTip": "StudentManagement\\StudentManagement\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T14:42:38.61Z"
+              "WhenOpened": "2024-05-29T14:42:38.61Z",
+              "EditorCaption": ""
             }
           ]
         },

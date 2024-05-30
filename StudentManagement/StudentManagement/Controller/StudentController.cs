@@ -70,6 +70,7 @@ namespace StudentManagement.Controller
 
             return Ok(updatestudent);
         }
+      
 
     }
 }
